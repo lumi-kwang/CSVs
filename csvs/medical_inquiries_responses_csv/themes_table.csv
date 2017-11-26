@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+os|en,"OS, 95% CI, respectively, Objective response rate",3188,Theme 0
+trial|en,"trial, mg, kg, cohort",1365,Theme 1
+lancet|en oncol|en,"Lancet Oncol, protocol, McDermott DF, Motzer RJ",2144,Theme 2
+non-small|en cell|en lung|en cancer|en,"non-small cell lung cancer, phase 3 study, open-label, melanoma",1874,Theme 3
+aes|en,"AEs, provided in the Detailed Information, Opdivo, adverse",2552,Theme 4
+efficacy|en,"efficacy, patients, considered investigational, patients with advanced or metastatic",3988,Theme 5
+not|en conduct|en control|en clinical|en trial|en study|en,"not conducted any controlled clinical trials/studies, requested, Pubmed literature search, purposes other than its labeled indication must be considered investigational",2547,Theme 6

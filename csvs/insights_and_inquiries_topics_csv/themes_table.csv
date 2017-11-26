@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+nsclc|en,"NSCLC, TL, melanoma, lung",2087,Theme 0
+therapy|en,"therapy, RCC, combination, pembro",1928,Theme 1
+patient|en,"patients, regimen, toxicity, pts",4428,Theme 2
+clinical|en trial|en,"clinical trials, treated, head and neck cancer, data on the use of nivolumab",1553,Theme 3
+apixaban|en,"apixaban, Eliquis, data, agents",4750,Theme 4
+empliciti|en,"Empliciti, study, Elo, infusion",1774,Theme 5
+efficacy|en,"efficacy, request, slides, regarding",1592,Theme 6

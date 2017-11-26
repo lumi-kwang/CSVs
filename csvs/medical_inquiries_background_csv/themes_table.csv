@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+contact|en ~conj verify|en hcp|en credential|en,"Verified HCP credentials and contact, *24 hr email sent, attachment, updated TR",3003,Theme 0
+verify|en,"Verified, Split into 2 requests, Sent acknowledgement email, attachment with contact information documented",3019,Theme 1
+requester|en,"requester, clarification, MSL, MIRF",2197,Theme 2
+xs|en,"XS, guidance, send, fulfillment",4577,Theme 3
+caller|en,"Caller, Caller stated, BMS, Spoke",3618,Theme 4
+patient|en,"patient, NSCLC, dose, therapy",4335,Theme 5
+customize|en,"customized, Attached, trials, slides",2915,Theme 6

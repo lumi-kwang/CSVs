@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+copy|en,"copy, recipient, confidential, e-mail",1473,Theme 0
+president|en address|en,"PRES Address, MD-Medical Doctor Type, Fax, Refused Fax",7010,Theme 1
+pharmd|en,"PharmD, MD, Oncology, pharmacist",2572,Theme 2
+email|en body|en,"Email Body, mailto, FW, MIRF Email Body",5946,Theme 3
+patient|en,"patient, nivolumab, NSCLC, lung",3368,Theme 4
+request|en,"request, BMS, info, regarding",2504,Theme 5
+dose|en,"dose, pt, Pharmacy, physician",1622,Theme 6

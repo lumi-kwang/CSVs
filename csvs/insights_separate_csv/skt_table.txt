@@ -1,0 +1,1536 @@
+term	subset	value	exact_matches	conceptual_matches	total_matches	
+:customer	Segmentation		14	0	14	
+DOP	Segmentation		3	93	96	
+net	Segmentation		3	18	21	
+IDN	Segmentation		8	100	108	
+AIM	Segmentation		4	12	16	
+PBM	Segmentation		4	122	126	
+budget	Segmentation		4	162	166	
+medical policy	Segmentation		10	161	171	
+contract	Segmentation		12	83	95	
+BCBS	Segmentation		7	81	88	
+discount	Segmentation		7	98	105	
+HEOR	Segmentation		16	20	36	
+policy	Segmentation		18	128	146	
+pharmacy	Segmentation		29	48	77	
+health	Segmentation		25	0	25	
+feedback	Segmentation		10	8	18	
+class	Segmentation		21	0	21	
+models	Segmentation		12	4	16	
+product	Segmentation		37	20	57	
+Director	Segmentation		41	32	73	
+large academic center stated	Segmentation	  Access Influencers	25	347	372	
+NCCN institution	Segmentation	  Access Influencers	16	109	125	
+NTL	Segmentation	  Access Influencers	311	710	1021	
+context of an online lecture	Segmentation	  Clinical Practice Influencers	7	659	666	
+NCCN 2016 Webex Congress Series	Segmentation	  Clinical Practice Influencers	7	657	664	
+comers	Segmentation	  Clinical Practice Influencers	20	0	20	
+member	Segmentation	  Clinical Practice Influencers	37	111	148	
+podium	Segmentation	  Clinical Practice Influencers	46	474	520	
+NCCN	Segmentation	  Clinical Practice Influencers	229	106	335	
+TLs	Segmentation	  Clinical Practice Influencers	98	6	104	
+panelist	Segmentation	  Clinical Practice Influencers	134	164	298	
+national	Segmentation	  Clinical Practice Influencers	183	979	1162	
+NTL	Segmentation	  Clinical Practice Influencers	311	710	1021	
+IO	Segmentation	  Clinical Practice Influencers	242	52	294	
+cost	Segmentation	  Clinical Practice Influencers	103	168	271	
+1L	Segmentation	  Clinical Practice Influencers	288	292	580	
+Executive Director	Segmentation	  Economic/Value Influencers	4	56	60	
+NAI	Segmentation	  Economic/Value Influencers	7	282	289	
+proactive meeting to discuss CM-026	Segmentation	  Economic/Value Influencers	7	257	264	
+member	Segmentation	  Economic/Value Influencers	37	111	148	
+CM-026	Segmentation	  Economic/Value Influencers	52	177	229	
+pathway	Segmentation	  Economic/Value Influencers	56	48	104	
+cost	Segmentation	  Economic/Value Influencers	103	168	271	
+NTL in the Boston area mentioned	Segmentation	  High Disease Burden Clinicians	9	137	146	
+territory	Segmentation	  High Disease Burden Clinicians	35	349	384	
+regional TL shared	Segmentation	  High Disease Burden Clinicians	18	18	36	
+large academic center stated	Segmentation	  High Disease Burden Clinicians	25	347	372	
+shared the following unsolicited insights	Segmentation	  High Disease Burden Clinicians	26	724	750	
+Ipi+Nivo	Segmentation	  High Disease Burden Clinicians	45	338	383	
+international GI conference	Segmentation	  Scientific Experts	17	43	60	
+NTL said	Segmentation	  Scientific Experts	24	14	38	
+large academic center stated	Segmentation	  Scientific Experts	25	347	372	
+National TL	Segmentation	  Scientific Experts	51	544	595	
+NTL	Segmentation	  Scientific Experts	311	710	1021	
+said	Segmentation	  Scientific Experts	479	0	479	
+NCCN institution	Segmentation	 Access Decision Makers	16	109	125	
+Path TL	Segmentation	 Access Decision Makers	18	230	248	
+large academic center stated	Segmentation	 Access Decision Makers	25	347	372	
+NTL	Segmentation	 Access Decision Makers	311	710	1021	
+AI stated	Segmentation	 Access Influencers	24	171	195	
+provided the following unsolicited insights	Segmentation	 Access Influencers	45	146	191	
+shared the following unsolicited insights	Segmentation	 Access Influencers	26	724	750	
+NCCN panelist for NSCLC	Segmentation	 Access Influencers	11	482	493	
+RAI	Segmentation	 Access Influencers	15	701	716	
+Met with a national/regional lung	Segmentation	 Access Influencers	10	211	221	
+AI/TL post-ESMO	Segmentation	 Access Influencers	9	660	669	
+AI/TL	Segmentation	 Access Influencers	27	661	688	
+advisor	Segmentation	 Access Influencers	27	231	258	
+NSCLC NCCN panelist	Segmentation	 Access Influencers	17	665	682	
+AI	Segmentation	 Access Influencers	121	70	191	
+context of an online lecture	Segmentation	 Access Influencers	7	659	666	
+NAI	Segmentation	 Access Influencers	7	282	289	
+NCCN 2016 Webex Congress Series	Segmentation	 Access Influencers	7	657	664	
+proactive meeting to discuss CM-026	Segmentation	 Access Influencers	7	257	264	
+southeast region	Segmentation	 Access Influencers	7	169	176	
+Met with a national	Segmentation	 Access Influencers	25	644	669	
+panelist	Segmentation	 Access Influencers	134	164	298	
+Met with a regional	Segmentation	 Access Influencers	21	174	195	
+NCCN center in the midwest stated	Segmentation	 Access Influencers	12	299	311	
+international GI conference	Segmentation	 Clinical Practice Influencers	17	43	60	
+ie	Segmentation	 Clinical Practice Influencers	52	0	52	
+RTL	Segmentation	 Clinical Practice Influencers	690	801	1491	
+billing	Segmentation	 Economic/Value Influencers	9	11	20	
+Local lung TL commented	Segmentation	 High Disease Burden Clinicians	14	0	14	
+Local TL	Segmentation	 High Disease Burden Clinicians	52	1414	1466	
+LTL	Segmentation	 High Disease Burden Clinicians	79	800	879	
+Community TL	Segmentation	 High Disease Burden Clinicians	73	820	893	
+community oncologist	Segmentation	 High Disease Burden Clinicians	57	939	996	
+HCP	Segmentation	 High Disease Burden Clinicians	115	124	239	
+Local	Segmentation	 High Disease Burden Clinicians	184	1056	1240	
+IMAR management	Segmentation	 N/A	11	373	384	
+dinner	Segmentation	 N/A	11	199	210	
+IMAR	Segmentation	 N/A	27	141	168	
+administration	Segmentation	 N/A	15	0	15	
+nurse	Segmentation	 N/A	41	193	234	
+staff	Segmentation	 N/A	27	72	99	
+algorithms	Segmentation	 N/A	32	234	266	
+large community practice	Segmentation	 N/A	42	1884	1926	
+IMARs	Segmentation	 N/A	34	278	312	
+indicated	Segmentation	 N/A	79	459	538	
+noted	Segmentation	 N/A	144	0	144	
+practice	Segmentation	 N/A	258	718	976	
+NW territory	Segmentation	 Scientific Experts	14	1448	1462	
+Dako	Segmentation	 Scientific Experts	17	124	141	
+Lung RTL shared	Segmentation	 Scientific Experts	15	59	74	
+SP142	Segmentation	 Scientific Experts	17	146	163	
+pathologist	Segmentation	 Scientific Experts	45	211	256	
+PD-1	Segmentation	 Scientific Experts	133	215	348	
+sent	Segmentation	 Scientific Experts	64	529	593	
+PD-L1 testing	Segmentation	 Scientific Experts	123	444	567	
+cases	Segmentation	 Scientific Experts	117	0	117	
+pts	Segmentation	 Scientific Experts	164	1624	1788	
+NTL	Segmentation	 Scientific Experts	311	710	1021	
+TL	Segmentation	 Scientific Experts	1157	51	1208	
+2L	Territory		215	404	619	
+lung TL said	Territory	  CLEVELAND	16	1110	1126	
+atezi	Territory	  CLEVELAND	5	27	32	
+Regional lung TL told	Territory	  CLEVELAND	21	2	23	
+Fall ECOG	Territory	  CLEVELAND	4	148	152	
+voiced his opinion	Territory	  CLEVELAND	7	16	23	
+Local lung TL commented	Territory	  CLEVELAND	14	0	14	
+isn	Territory	  CLEVELAND	11	106	117	
+GR	Territory	  CLEVELAND	5	0	5	
+second	Territory	  CLEVELAND	5	0	5	
+H&N TL	Territory	  CLEVELAND	20	432	452	
+sutent	Territory	  CLEVELAND	8	3	11	
+TL told	Territory	  CLEVELAND	65	938	1003	
+Local	Territory	  CLEVELAND	184	1056	1240	
+t	Territory	  CLEVELAND	117	0	117	
+doesn	Territory	  CLEVELAND	36	94	130	
+TL said	Territory	  CLEVELAND	86	62	148	
+said	Territory	  CLEVELAND	479	0	479	
+line	Territory	  CLEVELAND	345	108	453	
+told	Territory	  CLEVELAND	136	65	201	
+national	Territory	  CLEVELAND	183	979	1162	
+HCP	Territory	  FL PANHANDLE	115	124	239	
+PD-L1 testing	Territory	  ACTICES & IMPLEMENTATION	123	444	567	
+NW territory	Territory	  AK	14	1448	1462	
+sky-rocketed	Territory	  AK	3	577	580	
+NeoGenomics	Territory	  AK	8	554	562	
+laboratory	Territory	  AK	7	1271	1278	
+clone	Territory	  AK	5	149	154	
+diagnostics	Territory	  AK	8	1288	1296	
+medical director	Territory	  AK	8	365	373	
+healthcare	Territory	  AK	6	688	694	
+Ventana platform	Territory	  AK	7	145	152	
+reflex testing	Territory	  AK	11	91	102	
+medical oncologists	Territory	  AK	23	176	199	
+platform	Territory	  AK	18	149	167	
+IHC	Territory	  AK	25	536	561	
+insights	Territory	  AK	137	0	137	
+molecular	Territory	  AK	17	42	59	
+SP142	Territory	  AK	17	146	163	
+pathologist	Territory	  AK	45	211	256	
+network	Territory	  AK	18	441	459	
+pathology	Territory	  AK	19	213	232	
+gained	Territory	  AK	19	86	105	
+Pediatric	Territory	  AL	11	367	378	
+regional TL shared	Territory	  AL	18	18	36	
+achieved a CR	Territory	  AL	18	356	374	
+offered	Territory	  AL	88	0	88	
+TL shared	Territory	  AL	119	1081	1200	
+academic center	Territory	  AL	103	319	422	
+Regional TL	Territory	  AL	100	1088	1188	
+nivolumab	Territory	  AL	335	5	340	
+said	Territory	  AL	479	0	479	
+Biodesix	Territory	  APE/COMPETITOR INFORMATION	4	34	38	
+cabozatanib	Territory	  AR	13	190	203	
+trx	Territory	  AR	10	0	10	
+pace	Territory	  AR	8	208	216	
+aPD1	Territory	  AR	7	635	642	
+Pan-tumor	Territory	  AR	18	464	482	
+Pediatric	Territory	  AR	11	367	378	
+ie	Territory	  AR	52	0	52	
+modest	Territory	  AR	9	142	151	
+2L+	Territory	  AR	12	334	346	
+GU RTL stated	Territory	  AR	13	433	446	
+Pan	Territory	  AR	10	0	10	
+IL-2	Territory	  AR	16	48	64	
+not test for PDL1	Territory	  AR	14	651	665	
+axitinib	Territory	  AR	14	482	496	
+HN	Territory	  AR	21	1	22	
+GU	Territory	  AR	84	815	899	
+nearly	Territory	  AR	23	0	23	
+completely	Territory	  AR	26	3	29	
+testing for PDL1	Territory	  AR	39	575	614	
+Ipi+Nivo	Territory	  AR	45	338	383	
+PTCL	Territory	  ATION/ ISRS	3	139	142	
+Numerous TLs	Territory	  AZ	6	253	259	
+tone	Territory	  AZ	4	0	4	
+restriction	Territory	  AZ	6	16	22	
+AE profile	Territory	  AZ	14	338	352	
+comers	Territory	  AZ	20	0	20	
+q3wk	Territory	  AZ	14	425	439	
+TLs	Territory	  AZ	98	6	104	
+established	Territory	  AZ	17	0	17	
+IO-IO	Territory	  AZ	21	757	778	
+highly	Territory	  AZ	30	34	64	
+key	Territory	  AZ	37	0	37	
+PDL1 status	Territory	  AZ	39	874	913	
+SOC	Territory	  AZ	69	492	561	
+specifically	Territory	  AZ	50	48	98	
+regards	Territory	  AZ	112	0	112	
+increase	Territory	  AZ	113	36	149	
+indication	Territory	  AZ	99	0	99	
+population	Territory	  AZ	222	248	470	
+IO	Territory	  AZ	242	52	294	
+1L	Territory	  AZ	288	292	580	
+Numerous TLs	Territory	  CO	6	253	259	
+tone	Territory	  CO	4	0	4	
+AE profile	Territory	  CO	14	338	352	
+like to see a trial	Territory	  CO	15	14	29	
+comers	Territory	  CO	20	0	20	
+TLs	Territory	  CO	98	6	104	
+highly	Territory	  CO	30	34	64	
+regards	Territory	  CO	112	0	112	
+IO	Territory	  CO	242	52	294	
+Path TL	Territory	  CT	18	230	248	
+southeast region	Territory	  CT	7	169	176	
+cHD	Territory	  CT	6	318	324	
+gathered the following unsolicited	Territory	  CT	6	175	181	
+Ritchie	Territory	  CT	6	170	176	
+Path	Territory	  CT	19	0	19	
+NCI-designated	Territory	  CT	8	157	165	
+Joseph	Territory	  CT	7	170	177	
+1st line NSCLC	Territory	  CT	17	26	43	
+evolving	Territory	  CT	10	77	87	
+reflex testing	Territory	  CT	11	91	102	
+comparable	Territory	  CT	13	498	511	
+score	Territory	  CT	21	156	177	
+Boston	Territory	  CT	40	82	122	
+pathologist	Territory	  CT	45	211	256	
+22C3	Territory	  CT	49	112	161	
+order	Territory	  CT	55	550	605	
+1st line	Territory	  CT	69	712	781	
+pts	Territory	  CT	164	1624	1788	
+PD-L1	Territory	  CT	306	375	681	
+corticosteroids	Territory	  DE	17	260	277	
+thought leader	Territory	  DE	25	22	47	
+National TL	Territory	  DE	51	544	595	
+competitor	Territory	  DE	33	0	33	
+major	Territory	  DE	90	483	573	
+PDL-1	Territory	  DE	50	881	931	
+Regional TL	Territory	  DE	100	1088	1188	
+reported	Territory	  DE	182	10	192	
+auto	Territory	  FL	15	204	219	
+pt	Territory	  FL	67	23	90	
+reported	Territory	  FL	182	10	192	
+regional TL shared	Territory	  GA	18	18	36	
+anti-PD1	Territory	  GA	38	55	93	
+TL told	Territory	  GA	65	938	1003	
+TL shared	Territory	  GA	119	1081	1200	
+commented	Territory	  GA	295	327	622	
+cytology	Territory	  HI	4	159	163	
+volume	Territory	  HI	31	9	40	
+in-house	Territory	  HI	25	127	152	
+score	Territory	  HI	21	156	177	
+requests	Territory	  HI	61	545	606	
+RTL from a major academic institution	Territory	  IA	20	232	252	
+community institution	Territory	  IA	31	221	252	
+026 Top 300	Territory	  IA	7	245	252	
+large community institution	Territory	  IA	13	1371	1384	
+NOT Top 300	Territory	  IA	4	248	252	
+academic institution mentioned	Territory	  IA	14	47	61	
+single-agent	Territory	  IA	5	0	5	
+KEYNOTE-024	Territory	  IA	19	76	95	
+opted	Territory	  IA	6	246	252	
+CheckMate 227	Territory	  IA	8	8	16	
+progressive	Territory	  IA	7	245	252	
+second-line	Territory	  IA	17	63	80	
+eager	Territory	  IA	10	7	17	
+first-line	Territory	  IA	26	54	80	
+major academic institution	Territory	  IA	34	225	259	
+top	Territory	  IA	23	0	23	
+RTL mentioned	Territory	  IA	27	0	27	
+Checkmate	Territory	  IA	87	792	879	
+PD-L1 expression	Territory	  IA	72	703	775	
+I-O	Territory	  IA	60	0	60	
+NW territory	Territory	  ID	14	1448	1462	
+ASCO'16	Territory	  ID	5	394	399	
+NeoGenomics	Territory	  ID	8	554	562	
+laboratory	Territory	  ID	7	1271	1278	
+like to see a trial	Territory	  ID	15	14	29	
+Academic TL stated	Territory	  ID	16	162	178	
+Ipi+Nivo	Territory	  ID	45	338	383	
+medical oncologists	Territory	  ID	23	176	199	
+insights	Territory	  ID	137	0	137	
+TL said	Territory	  ID	86	62	148	
+pathologist	Territory	  ID	45	211	256	
+TL	Territory	  ID	1157	51	1208	
+large academic center stated	Territory	  IN	25	347	372	
+Lung RTL shared	Territory	  IN	15	59	74	
+midwest	Territory	  IN	42	124	166	
+mostly	Territory	  IN	34	0	34	
+cut-off	Territory	  IN	26	695	721	
+submitted	Territory	  IN	21	96	117	
+PDL-1	Territory	  IN	50	881	931	
+second line	Territory	  IN	78	247	325	
+pts	Territory	  IN	164	1624	1788	
+line	Territory	  IN	345	108	453	
+added	Territory	  IN	148	0	148	
+NTL	Territory	  IN	311	710	1021	
+shared	Territory	  IN	507	1	508	
+CLL	Territory	  KS	5	98	103	
+like to see a trial	Territory	  KS	15	14	29	
+GVHD	Territory	  KS	21	118	139	
+TL commented	Territory	  KY	83	892	975	
+presenter	Territory	  KY	14	1	15	
+Local TL	Territory	  KY	52	1414	1466	
+I/O	Territory	  KY	36	184	220	
+Academic TL	Territory	  KY	65	167	232	
+commented	Territory	  KY	295	327	622	
+Pediatric Oncology/ Hematology	Territory	  LA	4	319	323	
+Pediatric	Territory	  LA	11	367	378	
+Brentuximab vedotin	Territory	  LA	11	135	146	
+described	Territory	  LA	44	0	44	
+academic center	Territory	  LA	103	319	422	
+lymphoma	Territory	  LA	73	12	85	
+transplant	Territory	  LA	92	193	285	
+cHL	Territory	  LA	116	190	306	
+PR Hem Onc Symposium	Territory	  LANDSCAPE	5	142	147	
+Path TL	Territory	  MA	18	230	248	
+NTL in the Boston area mentioned	Territory	  MA	9	137	146	
+Boston area	Territory	  MA	19	27	46	
+Path	Territory	  MA	19	0	19	
+IVD	Territory	  MA	6	146	152	
+score	Territory	  MA	21	156	177	
+pathologist	Territory	  MA	45	211	256	
+Boston	Territory	  MA	40	82	122	
+22C3	Territory	  MA	49	112	161	
+BV	Territory	  MA	33	158	191	
+stop	Territory	  MA	67	137	204	
+mentioned	Territory	  MA	289	130	419	
+reported	Territory	  MA	182	10	192	
+standardized	Territory	  MD	8	132	140	
+Path TL	Territory	  ME	18	230	248	
+Boston area	Territory	  ME	19	27	46	
+NTL in the Boston area mentioned	Territory	  ME	9	137	146	
+Path	Territory	  ME	19	0	19	
+Boston	Territory	  ME	40	82	122	
+rounds	Territory	  ME	8	5	13	
+1st line NSCLC	Territory	  ME	17	26	43	
+score	Territory	  ME	21	156	177	
+pathologist	Territory	  ME	45	211	256	
+22C3	Territory	  ME	49	112	161	
+1st line	Territory	  ME	69	712	781	
+pts	Territory	  ME	164	1624	1788	
+LTL	Territory	  ME	79	800	879	
+PD-L1	Territory	  ME	306	375	681	
+mentioned	Territory	  ME	289	130	419	
+NCI	Territory	  MI	16	112	128	
+hematologic malignancies	Territory	  MI	5	4	9	
+PET	Territory	  MI	11	0	11	
+cancer center	Territory	  MI	46	130	176	
+lymphoma	Territory	  MI	73	12	85	
+academic center	Territory	  MI	103	319	422	
+noted	Territory	  MI	144	0	144	
+RTL from a major academic institution	Territory	  MN	20	232	252	
+community institution	Territory	  MN	31	221	252	
+026 Top 300	Territory	  MN	7	245	252	
+large community institution	Territory	  MN	13	1371	1384	
+NCI	Territory	  MN	16	112	128	
+NOT Top 300	Territory	  MN	4	248	252	
+academic institution mentioned	Territory	  MN	14	47	61	
+single-agent	Territory	  MN	5	0	5	
+KEYNOTE-024	Territory	  MN	19	76	95	
+CheckMate 227	Territory	  MN	8	8	16	
+second-line	Territory	  MN	17	63	80	
+eager	Territory	  MN	10	7	17	
+first-line	Territory	  MN	26	54	80	
+top	Territory	  MN	23	0	23	
+major academic institution	Territory	  MN	34	225	259	
+RTL mentioned	Territory	  MN	27	0	27	
+Checkmate	Territory	  MN	87	792	879	
+PD-L1 expression	Territory	  MN	72	703	775	
+pembrolizumab	Territory	  MN	65	45	110	
+RTL	Territory	  MN	690	801	1491	
+cabozatanib	Territory	  MO	13	190	203	
+trx	Territory	  MO	10	0	10	
+pace	Territory	  MO	8	208	216	
+aPD1	Territory	  MO	7	635	642	
+Pan-tumor	Territory	  MO	18	464	482	
+ie	Territory	  MO	52	0	52	
+modest	Territory	  MO	9	142	151	
+2L+	Territory	  MO	12	334	346	
+IL-2	Territory	  MO	16	48	64	
+GU RTL stated	Territory	  MO	13	433	446	
+Pan	Territory	  MO	10	0	10	
+not test for PDL1	Territory	  MO	14	651	665	
+axitinib	Territory	  MO	14	482	496	
+HN	Territory	  MO	21	1	22	
+GU	Territory	  MO	84	815	899	
+3L	Territory	  MO	19	518	537	
+sunitinib	Territory	  MO	19	348	367	
+nearly	Territory	  MO	23	0	23	
+completely	Territory	  MO	26	3	29	
+testing for PDL1	Territory	  MO	39	575	614	
+Pediatric	Territory	  MS	11	367	378	
+regional TL shared	Territory	  MS	18	18	36	
+achieved a CR	Territory	  MS	18	356	374	
+offered	Territory	  MS	88	0	88	
+TL shared	Territory	  MS	119	1081	1200	
+described	Territory	  MS	44	0	44	
+academic center	Territory	  MS	103	319	422	
+Regional TL	Territory	  MS	100	1088	1188	
+nivolumab	Territory	  MS	335	5	340	
+said	Territory	  MS	479	0	479	
+HCP	Territory	  MSL	115	124	239	
+NW territory	Territory	  MT	14	1448	1462	
+ASCO'16	Territory	  MT	5	394	399	
+NeoGenomics	Territory	  MT	8	554	562	
+laboratory	Territory	  MT	7	1271	1278	
+like to see a trial	Territory	  MT	15	14	29	
+Academic TL stated	Territory	  MT	16	162	178	
+Ipi+Nivo	Territory	  MT	45	338	383	
+medical oncologists	Territory	  MT	23	176	199	
+insights	Territory	  MT	137	0	137	
+TL said	Territory	  MT	86	62	148	
+pathologist	Territory	  MT	45	211	256	
+TL	Territory	  MT	1157	51	1208	
+tolerance	Territory	  N. FL	4	0	4	
+oncology	Territory	  N. FL	97	148	245	
+practice	Territory	  N. FL	258	718	976	
+NW territory	Territory	  N.CA	14	1448	1462	
+sky-rocketed	Territory	  N.CA	3	577	580	
+NeoGenomics	Territory	  N.CA	8	554	562	
+laboratory	Territory	  N.CA	7	1271	1278	
+clone	Territory	  N.CA	5	149	154	
+diagnostics	Territory	  N.CA	8	1288	1296	
+medical director	Territory	  N.CA	8	365	373	
+reflex testing	Territory	  N.CA	11	91	102	
+medical oncologists	Territory	  N.CA	23	176	199	
+platform	Territory	  N.CA	18	149	167	
+IHC	Territory	  N.CA	25	536	561	
+insights	Territory	  N.CA	137	0	137	
+molecular	Territory	  N.CA	17	42	59	
+SP142	Territory	  N.CA	17	146	163	
+pathologist	Territory	  N.CA	45	211	256	
+in-house	Territory	  N.CA	25	127	152	
+22C3	Territory	  N.CA	49	112	161	
+Community TL	Territory	  N.CA	73	820	893	
+sent	Territory	  N.CA	64	529	593	
+utilized	Territory	  N.CA	45	0	45	
+NW territory	Territory	  N.NV	14	1448	1462	
+sky-rocketed	Territory	  N.NV	3	577	580	
+NeoGenomics	Territory	  N.NV	8	554	562	
+laboratory	Territory	  N.NV	7	1271	1278	
+clone	Territory	  N.NV	5	149	154	
+diagnostics	Territory	  N.NV	8	1288	1296	
+medical director	Territory	  N.NV	8	365	373	
+healthcare	Territory	  N.NV	6	688	694	
+Ventana platform	Territory	  N.NV	7	145	152	
+reflex testing	Territory	  N.NV	11	91	102	
+medical oncologists	Territory	  N.NV	23	176	199	
+platform	Territory	  N.NV	18	149	167	
+IHC	Territory	  N.NV	25	536	561	
+insights	Territory	  N.NV	137	0	137	
+molecular	Territory	  N.NV	17	42	59	
+SP142	Territory	  N.NV	17	146	163	
+pathologist	Territory	  N.NV	45	211	256	
+network	Territory	  N.NV	18	441	459	
+pathology	Territory	  N.NV	19	213	232	
+gained	Territory	  N.NV	19	86	105	
+Neuro-ONC	Territory	  NC	11	39	50	
+National Thought leader	Territory	  NC	9	0	9	
+respect	Territory	  NC	20	122	142	
+GBM	Territory	  NC	49	79	128	
+IO therapy	Territory	  NC	64	26	90	
+NCI	Territory	  ND	16	112	128	
+hematologic malignancies	Territory	  ND	5	4	9	
+PET	Territory	  ND	11	0	11	
+cancer center	Territory	  ND	46	130	176	
+lymphoma	Territory	  ND	73	12	85	
+academic center	Territory	  ND	103	319	422	
+noted	Territory	  ND	144	0	144	
+Numerous TLs	Territory	  NE	6	253	259	
+tone	Territory	  NE	4	0	4	
+AE profile	Territory	  NE	14	338	352	
+like to see a trial	Territory	  NE	15	14	29	
+comers	Territory	  NE	20	0	20	
+q3wk	Territory	  NE	14	425	439	
+TLs	Territory	  NE	98	6	104	
+IO-IO	Territory	  NE	21	757	778	
+highly	Territory	  NE	30	34	64	
+regards	Territory	  NE	112	0	112	
+increase	Territory	  NE	113	36	149	
+Path TL	Territory	  NH	18	230	248	
+Path	Territory	  NH	19	0	19	
+IVD	Territory	  NH	6	146	152	
+1st line NSCLC	Territory	  NH	17	26	43	
+score	Territory	  NH	21	156	177	
+Boston	Territory	  NH	40	82	122	
+pathologist	Territory	  NH	45	211	256	
+22C3	Territory	  NH	49	112	161	
+1st line	Territory	  NH	69	712	781	
+pts	Territory	  NH	164	1624	1788	
+LTL	Territory	  NH	79	800	879	
+PD-L1	Territory	  NH	306	375	681	
+PD-L1 testing	Territory	  NH	123	444	567	
+added	Territory	  NH	148	0	148	
+southeast region	Territory	  NJ	7	169	176	
+cHD	Territory	  NJ	6	318	324	
+gathered the following unsolicited	Territory	  NJ	6	175	181	
+Ritchie	Territory	  NJ	6	170	176	
+NCI-designated	Territory	  NJ	8	157	165	
+Joseph	Territory	  NJ	7	170	177	
+NCCN panel member	Territory	  NJ	9	561	570	
+corticosteroids	Territory	  NJ	17	260	277	
+comparable	Territory	  NJ	13	498	511	
+thought leader	Territory	  NJ	25	22	47	
+member	Territory	  NJ	37	111	148	
+National TL	Territory	  NJ	51	544	595	
+patients respond	Territory	  NJ	37	22	59	
+major	Territory	  NJ	90	483	573	
+Regional TL	Territory	  NJ	100	1088	1188	
+opinion	Territory	  NJ	72	109	181	
+reported	Territory	  NJ	182	10	192	
+Numerous TLs	Territory	  NM	6	253	259	
+tone	Territory	  NM	4	0	4	
+restriction	Territory	  NM	6	16	22	
+AE profile	Territory	  NM	14	338	352	
+comers	Territory	  NM	20	0	20	
+q3wk	Territory	  NM	14	425	439	
+TLs	Territory	  NM	98	6	104	
+established	Territory	  NM	17	0	17	
+IO-IO	Territory	  NM	21	757	778	
+highly	Territory	  NM	30	34	64	
+key	Territory	  NM	37	0	37	
+SOC	Territory	  NM	69	492	561	
+regards	Territory	  NM	112	0	112	
+increase	Territory	  NM	113	36	149	
+indication	Territory	  NM	99	0	99	
+population	Territory	  NM	222	248	470	
+IO	Territory	  NM	242	52	294	
+q3wk	Territory	  NV	14	425	439	
+myocarditis	Territory	  NV	12	62	74	
+TLs have stated	Territory	  NV	21	203	224	
+IO-IO	Territory	  NV	21	757	778	
+PDL-1	Territory	  NV	50	881	931	
+Community TL	Territory	  NV	73	820	893	
+large academic center stated	Territory	  OH	25	347	372	
+midwest	Territory	  OH	42	124	166	
+TL commented	Territory	  OH	83	892	975	
+PDL-1	Territory	  OH	50	881	931	
+mostly	Territory	  OH	34	0	34	
+meeting	Territory	  OH	239	35	274	
+line	Territory	  OH	345	108	453	
+BMS-sponsored	Territory	  OK	2	50	52	
+novel	Territory	  OK	10	9	19	
+uveal	Territory	  OM	5	424	429	
+years old	Territory	  OM	8	0	8	
+objective responses	Territory	  OM	8	3	11	
+BRAF/MEK	Territory	  OM	10	362	372	
+BRAF	Territory	  OM	38	209	247	
+regimen	Territory	  OM	243	465	708	
+NW territory	Territory	  OR	14	1448	1462	
+ASCO'16	Territory	  OR	5	394	399	
+NeoGenomics	Territory	  OR	8	554	562	
+laboratory	Territory	  OR	7	1271	1278	
+Academic TL stated	Territory	  OR	16	162	178	
+community hospital	Territory	  OR	19	551	570	
+Ipi+Nivo	Territory	  OR	45	338	383	
+medical oncologists	Territory	  OR	23	176	199	
+insights	Territory	  OR	137	0	137	
+IHC	Territory	  OR	25	536	561	
+TL said	Territory	  OR	86	62	148	
+pathologist	Territory	  OR	45	211	256	
+TL	Territory	  OR	1157	51	1208	
+MedOncs	Territory	  PA	4	131	135	
+machines	Territory	  PA	3	147	150	
+standardized	Territory	  PA	8	132	140	
+complementary	Territory	  PA	4	138	142	
+SP263	Territory	  PA	8	144	152	
+tumor cells	Territory	  PA	22	82	104	
+Dako	Territory	  PA	17	124	141	
+staining	Territory	  PA	32	620	652	
+22C3	Territory	  PA	49	112	161	
+aware	Territory	  PA	57	0	57	
+PD-L1	Territory	  PA	306	375	681	
+Path TL	Territory	  RI	18	230	248	
+Path	Territory	  RI	19	0	19	
+IVD	Territory	  RI	6	146	152	
+1st line NSCLC	Territory	  RI	17	26	43	
+score	Territory	  RI	21	156	177	
+Boston	Territory	  RI	40	82	122	
+pathologist	Territory	  RI	45	211	256	
+22C3	Territory	  RI	49	112	161	
+1st line	Territory	  RI	69	712	781	
+pts	Territory	  RI	164	1624	1788	
+LTL	Territory	  RI	79	800	879	
+PD-L1	Territory	  RI	306	375	681	
+PD-L1 testing	Territory	  RI	123	444	567	
+added	Territory	  RI	148	0	148	
+cabozatanib	Territory	  S. IL	13	190	203	
+trx	Territory	  S. IL	10	0	10	
+pace	Territory	  S. IL	8	208	216	
+aPD1	Territory	  S. IL	7	635	642	
+Pan-tumor	Territory	  S. IL	18	464	482	
+ie	Territory	  S. IL	52	0	52	
+modest	Territory	  S. IL	9	142	151	
+2L+	Territory	  S. IL	12	334	346	
+GU RTL stated	Territory	  S. IL	13	433	446	
+Pan	Territory	  S. IL	10	0	10	
+IL-2	Territory	  S. IL	16	48	64	
+not test for PDL1	Territory	  S. IL	14	651	665	
+axitinib	Territory	  S. IL	14	482	496	
+HN	Territory	  S. IL	21	1	22	
+GU	Territory	  S. IL	84	815	899	
+3L	Territory	  S. IL	19	518	537	
+sunitinib	Territory	  S. IL	19	348	367	
+nearly	Territory	  S. IL	23	0	23	
+completely	Territory	  S. IL	26	3	29	
+testing for PDL1	Territory	  S. IL	39	575	614	
+HCP	Territory	  S. TN	115	124	239	
+cytology	Territory	  S.CA	4	159	163	
+volume	Territory	  S.CA	31	9	40	
+in-house	Territory	  S.CA	25	127	152	
+score	Territory	  S.CA	21	156	177	
+requests	Territory	  S.CA	61	545	606	
+cytology	Territory	  S.NV	4	159	163	
+volume	Territory	  S.NV	31	9	40	
+in-house	Territory	  S.NV	25	127	152	
+score	Territory	  S.NV	21	156	177	
+requests	Territory	  S.NV	61	545	606	
+GYN ONC	Territory	  SC	4	69	73	
+Neuro-ONC	Territory	  SC	11	39	50	
+National Thought leader	Territory	  SC	9	0	9	
+respect	Territory	  SC	20	122	142	
+GBM	Territory	  SC	49	79	128	
+IO therapy	Territory	  SC	64	26	90	
+RTL from a major academic institution	Territory	  SD	20	232	252	
+community institution	Territory	  SD	31	221	252	
+026 Top 300	Territory	  SD	7	245	252	
+large community institution	Territory	  SD	13	1371	1384	
+NCI	Territory	  SD	16	112	128	
+NOT Top 300	Territory	  SD	4	248	252	
+academic institution mentioned	Territory	  SD	14	47	61	
+single-agent	Territory	  SD	5	0	5	
+KEYNOTE-024	Territory	  SD	19	76	95	
+CheckMate 227	Territory	  SD	8	8	16	
+second-line	Territory	  SD	17	63	80	
+eager	Territory	  SD	10	7	17	
+first-line	Territory	  SD	26	54	80	
+top	Territory	  SD	23	0	23	
+major academic institution	Territory	  SD	34	225	259	
+RTL mentioned	Territory	  SD	27	0	27	
+Checkmate	Territory	  SD	87	792	879	
+pembrolizumab	Territory	  SD	65	45	110	
+cancer center	Territory	  SD	46	130	176	
+PD-L1 expression	Territory	  SD	72	703	775	
+PTCL	Territory	  SRs	3	139	142	
+pt	Territory	  TN	67	23	90	
+large community practice	Territory	  TN	42	1884	1926	
+voluntarily	Territory	  TX	7	0	7	
+I-O agents	Territory	  TX	14	6	20	
+H&N cancer	Territory	  TX	22	39	61	
+CM-026	Territory	  TX	52	177	229	
+TL shared	Territory	  TX	119	1081	1200	
+feels	Territory	  TX	397	56	453	
+lung TL said	Territory	  UPSTATE NY	16	1110	1126	
+atezi	Territory	  UPSTATE NY	5	27	32	
+Regional lung TL told	Territory	  UPSTATE NY	21	2	23	
+Fall ECOG	Territory	  UPSTATE NY	4	148	152	
+voiced his opinion	Territory	  UPSTATE NY	7	16	23	
+Local lung TL commented	Territory	  UPSTATE NY	14	0	14	
+isn	Territory	  UPSTATE NY	11	106	117	
+GR	Territory	  UPSTATE NY	5	0	5	
+second	Territory	  UPSTATE NY	5	0	5	
+H&N TL	Territory	  UPSTATE NY	20	432	452	
+sutent	Territory	  UPSTATE NY	8	3	11	
+TL told	Territory	  UPSTATE NY	65	938	1003	
+Local	Territory	  UPSTATE NY	184	1056	1240	
+t	Territory	  UPSTATE NY	117	0	117	
+doesn	Territory	  UPSTATE NY	36	94	130	
+TL said	Territory	  UPSTATE NY	86	62	148	
+said	Territory	  UPSTATE NY	479	0	479	
+line	Territory	  UPSTATE NY	345	108	453	
+told	Territory	  UPSTATE NY	136	65	201	
+national	Territory	  UPSTATE NY	183	979	1162	
+ONS	Territory	  UT	5	198	203	
+California	Territory	  UT	8	290	298	
+PD	Territory	  UT	14	3	17	
+surrounding	Territory	  UT	13	0	13	
+tx	Territory	  UT	24	100	124	
+Onc	Territory	  UT	44	188	232	
+NP	Territory	  UT	31	704	735	
+symptoms	Territory	  UT	28	195	223	
+nurse	Territory	  UT	41	193	234	
+release	Territory	  UT	61	66	127	
+large	Territory	  UT	283	242	525	
+pts	Territory	  UT	164	1624	1788	
+mentioned	Territory	  UT	289	130	419	
+Northeast	Territory	  Upstate NY	9	121	130	
+IME	Territory	  Upstate NY	3	0	3	
+New England	Territory	  Upstate NY	17	970	987	
+cell carcinoma	Territory	  Upstate NY	7	40	47	
+NCCN institution	Territory	  Upstate NY	16	109	125	
+immuno-oncology	Territory	  Upstate NY	11	54	65	
+produce	Territory	  Upstate NY	11	0	11	
+US	Territory	  Upstate NY	14	24	38	
+thought leader	Territory	  Upstate NY	25	22	47	
+Boston	Territory	  Upstate NY	40	82	122	
+MD	Territory	  Upstate NY	29	71	100	
+ipilimumab	Territory	  Upstate NY	22	17	39	
+renal	Territory	  Upstate NY	22	26	48	
+cabozantinib	Territory	  Upstate NY	27	137	164	
+IO agents	Territory	  Upstate NY	45	174	219	
+major	Territory	  Upstate NY	90	483	573	
+advanced	Territory	  Upstate NY	36	0	36	
+hospital	Territory	  Upstate NY	72	479	551	
+RTL stated      Territory         VA    93      556     649
+Path TL Territory         VT    18      230     248
+Boston area     Territory         VT    19      27      46
+NTL in the Boston area mentioned        Territory         VT    9       137     146
+Path    Territory         VT    19      0       19
+Boston  Territory         VT    40      82      122
+rounds  Territory         VT    8       5       13
+1st line NSCLC  Territory         VT    17      26      43
+score   Territory         VT    21      156     177
+pathologist     Territory         VT    45      211     256
+22C3    Territory         VT    49 112     161  203
+1st line        Territory         VT    69290   712     781
+pts     Territory         VT164     162431788   17
+LTL     Territory         VT    79      800     879
+PD-L1   Territory         VT    306     375     681
+mentioned       Territory         VT    289     130     419
+NW territory    Territory         WA    14      1448    1462
+sky-rocketed    Territory         WA    3  23   577     580
+NeoGenomics     Territory         WA    8       554     562
+laboratory      Territory         WA    7       1271    1278
+clone   Territory         WA    5       149     154
+diagnostics     Territory         WA    8       1288    1296
+medical director        Territory         WA    8       365     373
+reflex testing  Territory         WA    11      91      102
+medical oncologists     Territory         WA    23      176     199
+platform        Territory         WA    18      149     167
+IHC     Territory         WA    25      536     561
+insights        Territory         WA    137     0       137
+molecular       Territory         WA    17      42      59
+improved	Territory	  Upstate NY	36	0	36	
+care	Territory	  Upstate NY	75	12	87	
+RTL stated	Territory	  VA	93	556	649	
+Path TL	Territory	  VT	18	230	248	
+Boston area	Territory	  VT	19	27	46	
+NTL in the Boston area mentioned	Territory	  VT	9	137	146	
+Path	Territory	  VT	19	0	19	
+Boston	Territory	  VT	40	82	122	
+rounds	Territory	  VT	8	5	13	
+1st line NSCLC	Territory	  VT	17	26	43	
+score	Territory	  VT	21	156	177	
+pathologist	Territory	  VT	45	211	256	
+22C3	Territory	  VT	49	112	161	
+1st line	Territory	  VT	69	712	781	
+pts	Territory	  VT	164	1624	1788	
+LTL	Territory	  VT	79	800	879	
+PD-L1	Territory	  VT	306	375	681	
+mentioned	Territory	  VT	289	130	419	
+NW territory	Territory	  WA	14	1448	1462	
+sky-rocketed	Territory	  WA	3	577	580	
+NeoGenomics	Territory	  WA	8	554	562	
+laboratory	Territory	  WA	7	1271	1278	
+clone	Territory	  WA	5	149	154	
+diagnostics	Territory	  WA	8	1288	1296	
+medical director	Territory	  WA	8	365	373	
+reflex testing	Territory	  WA	11	91	102	
+medical oncologists	Territory	  WA	23	176	199	
+platform	Territory	  WA	18	149	167	
+IHC	Territory	  WA	25	536	561	
+insights	Territory	  WA	137	0	137	
+molecular	Territory	  WA	17	42	59	
+SP142	Territory	  WA	17	146	163	
+pathologist	Territory	  WA	45	211	256	
+in-house	Territory	  WA	25	127	152	
+22C3	Territory	  WA	49	112	161	
+Community TL	Territory	  WA	73	820	893	
+sent	Territory	  WA	64	529	593	
+utilized	Territory	  WA	45	0	45	
+RTL from a major academic institution	Territory	  WI	20	232	252	
+community institution	Territory	  WI	31	221	252	
+026 Top 300	Territory	  WI	7	245	252	
+large community institution	Territory	  WI	13	1371	1384	
+NCI	Territory	  WI	16	112	128	
+NOT Top 300	Territory	  WI	4	248	252	
+academic institution mentioned	Territory	  WI	14	47	61	
+single-agent	Territory	  WI	5	0	5	
+KEYNOTE-024	Territory	  WI	19	76	95	
+CheckMate 227	Territory	  WI	8	8	16	
+second-line	Territory	  WI	17	63	80	
+eager	Territory	  WI	10	7	17	
+first-line	Territory	  WI	26	54	80	
+top	Territory	  WI	23	0	23	
+major academic institution	Territory	  WI	34	225	259	
+RTL mentioned	Territory	  WI	27	0	27	
+Checkmate	Territory	  WI	87	792	879	
+PD-L1 expression	Territory	  WI	72	703	775	
+pembrolizumab	Territory	  WI	65	45	110	
+RTL	Territory	  WI	690	801	1491	
+Verdict	Territory	  WV	2	5	7	
+Phase III	Territory	  WV	23	775	798	
+o	Territory	  WV	46	220	266	
+NW territory	Territory	  WY	14	1448	1462	
+ASCO'16	Territory	  WY	5	394	399	
+NeoGenomics	Territory	  WY	8	554	562	
+laboratory	Territory	  WY	7	1271	1278	
+like to see a trial	Territory	  WY	15	14	29	
+Academic TL stated	Territory	  WY	16	162	178	
+Ipi+Nivo	Territory	  WY	45	338	383	
+medical oncologists	Territory	  WY	23	176	199	
+insights	Territory	  WY	137	0	137	
+TL said	Territory	  WY	86	62	148	
+pathologist	Territory	  WY	45	211	256	
+TL	Territory	  WY	1157	51	1208	
+PD-L1 testing	Territory	  es	123	444	567	
+mRCC	Territory	  for	7	232	239	
+uveal	Territory	  n	5	424	429	
+years old	Territory	  n	8	0	8	
+objective responses	Territory	  n	8	3	11	
+BRAF/MEK	Territory	  n	10	362	372	
+BRAF	Territory	  n	38	209	247	
+regimen	Territory	  n	243	465	708	
+Biodesix	Territory	  petitor I	4	34	38	
+PR Hem Onc Symposium	Territory	  scape	5	142	147	
+atezolizumab	Territory	  t in 2nd	37	3	40	
+RAI	Territory	 AL	15	701	716	
+context of an online lecture	Territory	 AL	7	659	666	
+NAI	Territory	 AL	7	282	289	
+NCCN 2016 Webex Congress Series	Territory	 AL	7	657	664	
+proactive meeting to discuss CM-026	Territory	 AL	7	257	264	
+Bone Marrow Transplant Director	Territory	 AL	5	713	718	
+academic institution in the HSL South	Territory	 AL	10	110	120	
+Annual New Orleans Summer Cancer	Territory	 AL	4	341	345	
+LAI	Territory	 AL	4	238	242	
+RAI/NSCLC	Territory	 AL	8	175	183	
+made the following comments	Territory	 AL	17	549	566	
+South	Territory	 AL	20	360	380	
+NCCN panelist for NSCLC	Territory	 AL	11	482	493	
+territory	Territory	 AL	35	349	384	
+shared the following unsolicited insights	Territory	 AL	26	724	750	
+national access influencer	Territory	 AL	7	486	493	
+NSCLC NCCN panelist	Territory	 AL	17	665	682	
+large academic institution	Territory	 AL	15	478	493	
+HSL	Territory	 AL	29	239	268	
+CT	Territory	 AL	17	0	17	
+ONS	Territory	 AZ	5	198	203	
+California	Territory	 AZ	8	290	298	
+PD	Territory	 AZ	14	3	17	
+surrounding	Territory	 AZ	13	0	13	
+tx	Territory	 AZ	24	100	124	
+Onc	Territory	 AZ	44	188	232	
+NP	Territory	 AZ	31	704	735	
+symptoms	Territory	 AZ	28	195	223	
+nurse	Territory	 AZ	41	193	234	
+release	Territory	 AZ	61	66	127	
+pts	Territory	 AZ	164	1624	1788	
+mentioned	Territory	 AZ	289	130	419	
+bc	Territory	 CENTRAL	11	12	23	
+inflamed	Territory	 CENTRAL	5	86	91	
+non-inflamed	Territory	 CENTRAL	4	107	111	
+phenotype	Territory	 CENTRAL	8	76	84	
+Several TLs	Territory	 CENTRAL	11	14	25	
+tumor microenvironment	Territory	 CENTRAL	9	84	93	
+ll	Territory	 CENTRAL	7	16	23	
+single agent Nivo	Territory	 CENTRAL	16	0	16	
+deep	Territory	 CENTRAL	11	95	106	
+front-line	Territory	 CENTRAL	11	142	153	
+T cells	Territory	 CENTRAL	18	46	64	
+bladder cancer	Territory	 CENTRAL	23	36	59	
+tend	Territory	 CENTRAL	23	0	23	
+immune	Territory	 CENTRAL	80	2	82	
+RTL stated	Territory	 CENTRAL	93	556	649	
+pt	Territory	 CENTRAL	67	23	90	
+pts	Territory	 CENTRAL	164	1624	1788	
+TLs	Territory	 CENTRAL	98	6	104	
+mentioned	Territory	 CENTRAL	289	130	419	
+NTL	Territory	 CENTRAL	311	710	1021	
+Lung RTL shared	Territory	 CHICAGO	15	59	74	
+suit	Territory	 CHICAGO	6	0	6	
+Lung NTL	Territory	 CHICAGO	20	669	689	
+pts	Territory	 CHICAGO	164	1624	1788	
+Lung RTL	Territory	 CHICAGO	71	1103	1174	
+added	Territory	 CHICAGO	148	0	148	
+shared	Territory	 CHICAGO	507	1	508	
+commented	Territory	 CHICAGO	295	327	622	
+H&N cancer	Territory	 Chicago	22	39	61	
+corticosteroids	Territory	 E. PA	17	260	277	
+thought leader	Territory	 E. PA	25	22	47	
+National TL	Territory	 E. PA	51	544	595	
+competitor	Territory	 E. PA	33	0	33	
+PDL-1	Territory	 E. PA	50	881	931	
+Regional TL	Territory	 E. PA	100	1088	1188	
+major	Territory	 E. PA	90	483	573	
+GYN ONC	Territory	 E. TN	4	69	73	
+Neuro-ONC	Territory	 E. TN	11	39	50	
+National Thought leader	Territory	 E. TN	9	0	9	
+respect	Territory	 E. TN	20	122	142	
+GBM	Territory	 E. TN	49	79	128	
+IO therapy	Territory	 E. TN	64	26	90	
+Verdict	Territory	 EASTPA	2	5	7	
+Phase III	Territory	 EASTPA	23	775	798	
+o	Territory	 EASTPA	46	220	266	
+cHL patients	Territory	 East	31	150	181	
+bleomycin	Territory	 East	25	100	125	
+RTL mentioned	Territory	 East	27	0	27	
+TL mentioned	Territory	 East	43	30	73	
+post	Territory	 East	69	146	215	
+HL	Territory	 East	51	171	222	
+cHL	Territory	 East	116	190	306	
+q3week	Territory	 FL	7	4	11	
+rec/met setting	Territory	 FL	10	408	418	
+front	Territory	 FL	52	0	52	
+second line	Territory	 FL	78	247	325	
+RTL	Territory	 FL	690	801	1491	
+tolerance	Territory	 GA	4	0	4	
+oncology	Territory	 GA	97	148	245	
+practice	Territory	 GA	258	718	976	
+NCCN center in the midwest stated	Territory	 IA	12	299	311	
+exercise	Territory	 IA	5	238	243	
+P&T committee	Territory	 IA	8	478	486	
+NCCN center	Territory	 IA	26	280	306	
+AI stated	Territory	 IA	24	171	195	
+payor	Territory	 IA	7	23	30	
+order sets	Territory	 IA	8	321	329	
+reactive discussion	Territory	 IA	9	310	319	
+advisor	Territory	 IA	27	231	258	
+build	Territory	 IA	10	21	31	
+midwest	Territory	 IA	42	124	166	
+expression levels	Territory	 IA	41	170	211	
+unsolicited	Territory	 IA	99	200	299	
+perspective	Territory	 IA	25	0	25	
+chair	Territory	 IA	26	260	286	
+panelist	Territory	 IA	134	164	298	
+minimal	Territory	 IA	20	0	20	
+o	Territory	 IA	46	220	266	
+NCCN panelist	Territory	 IA	94	149	243	
+AI	Territory	 IA	121	70	191	
+nurse	Territory	 IN	41	193	234	
+lots	Territory	 IOCL Lead - HEME	12	0	12	
+Colorado	Territory	 IOCL Lead - ST2- North	3	292	295	
+Denver	Territory	 IOCL Lead - ST2- North	3	80	83	
+suburban	Territory	 IOCL Lead - ST2- North	3	421	424	
+breakfast	Territory	 IOCL Lead - ST2- North	3	11	14	
+IMAR management	Territory	 IOCL Lead - ST2- North	11	373	384	
+provider	Territory	 IOCL Lead - ST2- North	29	0	29	
+nurse	Territory	 IOCL Lead - ST2- North	41	193	234	
+indicated	Territory	 IOCL Lead - ST2- North	79	459	538	
+noted	Territory	 IOCL Lead - ST2- North	144	0	144	
+take	Territory	 IOCL Lead - ST2- North	76	0	76	
+physicians	Territory	 IOCL Lead - ST2- North	148	339	487	
+practice	Territory	 IOCL Lead - ST2- North	258	718	976	
+cabozatanib	Territory	 KS	13	190	203	
+trx	Territory	 KS	10	0	10	
+pace	Territory	 KS	8	208	216	
+aPD1	Territory	 KS	7	635	642	
+Pan-tumor	Territory	 KS	18	464	482	
+ie	Territory	 KS	52	0	52	
+modest	Territory	 KS	9	142	151	
+2L+	Territory	 KS	12	334	346	
+GU RTL stated	Territory	 KS	13	433	446	
+Pan	Territory	 KS	10	0	10	
+IL-2	Territory	 KS	16	48	64	
+not test for PDL1	Territory	 KS	14	651	665	
+axitinib	Territory	 KS	14	482	496	
+HN	Territory	 KS	21	1	22	
+sunitinib	Territory	 KS	19	348	367	
+GU	Territory	 KS	84	815	899	
+3L	Territory	 KS	19	518	537	
+nearly	Territory	 KS	23	0	23	
+completely	Territory	 KS	26	3	29	
+testing for PDL1	Territory	 KS	39	575	614	
+RAI	Territory	 LA	15	701	716	
+context of an online lecture	Territory	 LA	7	659	666	
+NAI	Territory	 LA	7	282	289	
+NCCN 2016 Webex Congress Series	Territory	 LA	7	657	664	
+proactive meeting to discuss CM-026	Territory	 LA	7	257	264	
+Bone Marrow Transplant Director	Territory	 LA	5	713	718	
+academic institution in the HSL South	Territory	 LA	10	110	120	
+Annual New Orleans Summer Cancer	Territory	 LA	4	341	345	
+LAI	Territory	 LA	4	238	242	
+RAI/NSCLC	Territory	 LA	8	175	183	
+made the following comments	Territory	 LA	17	549	566	
+South	Territory	 LA	20	360	380	
+NCCN panelist for NSCLC	Territory	 LA	11	482	493	
+Assoc	Territory	 LA	3	312	315	
+RCTs	Territory	 LA	3	541	544	
+Vice Chancellor Clin Res	Territory	 LA	3	312	315	
+territory	Territory	 LA	35	349	384	
+shared the following unsolicited insights	Territory	 LA	26	724	750	
+national access influencer	Territory	 LA	7	486	493	
+NSCLC NCCN panelist	Territory	 LA	17	665	682	
+1st line NSCLC	Territory	 MA	17	26	43	
+rounds	Territory	 MA	8	5	13	
+Boston	Territory	 MA	40	82	122	
+3mg/kg	Territory	 MA	17	415	432	
+New England	Territory	 MA	17	970	987	
+pts	Territory	 MA	164	1624	1788	
+inquired	Territory	 MA	29	0	29	
+LTL	Territory	 MA	79	800	879	
+1st line	Territory	 MA	69	712	781	
+added	Territory	 MA	148	0	148	
+PD-L1 testing	Territory	 MA	123	444	567	
+PD-L1	Territory	 MA	306	375	681	
+shared	Territory	 MA	507	1	508	
+Northeast	Territory	 ME	9	121	130	
+IME	Territory	 ME	3	0	3	
+New England	Territory	 ME	17	970	987	
+cell carcinoma	Territory	 ME	7	40	47	
+NCCN institution	Territory	 ME	16	109	125	
+immuno-oncology	Territory	 ME	11	54	65	
+produce	Territory	 ME	11	0	11	
+US	Territory	 ME	14	24	38	
+thought leader	Territory	 ME	25	22	47	
+Boston	Territory	 ME	40	82	122	
+MD	Territory	 ME	29	71	100	
+ipilimumab	Territory	 ME	22	17	39	
+renal	Territory	 ME	22	26	48	
+cabozantinib	Territory	 ME	27	137	164	
+IO agents	Territory	 ME	45	174	219	
+major	Territory	 ME	90	483	573	
+advanced	Territory	 ME	36	0	36	
+hospital	Territory	 ME	72	479	551	
+improved	Territory	 ME	36	0	36	
+care	Territory	 ME	75	12	87	
+NCCN center in the midwest stated	Territory	 MI	12	299	311	
+exercise	Territory	 MI	5	238	243	
+P&T committee	Territory	 MI	8	478	486	
+NCCN center	Territory	 MI	26	280	306	
+AI stated	Territory	 MI	24	171	195	
+advisor	Territory	 MI	27	231	258	
+TL commented	Territory	 MI	83	892	975	
+I/O	Territory	 MI	36	184	220	
+minimal	Territory	 MI	20	0	20	
+midwest	Territory	 MI	42	124	166	
+chair	Territory	 MI	26	260	286	
+panelist	Territory	 MI	134	164	298	
+Local TL	Territory	 MI	52	1414	1466	
+H&N	Territory	 MI	117	300	417	
+commented	Territory	 MI	295	327	622	
+MedOncs	Territory	 MID-ATLANTICMI	4	131	135	
+machines	Territory	 MID-ATLANTICMI	3	147	150	
+standardized	Territory	 MID-ATLANTICMI	8	132	140	
+complementary	Territory	 MID-ATLANTICMI	4	138	142	
+SP263	Territory	 MID-ATLANTICMI	8	144	152	
+tumor cells	Territory	 MID-ATLANTICMI	22	82	104	
+Dako	Territory	 MID-ATLANTICMI	17	124	141	
+staining	Territory	 MID-ATLANTICMI	32	620	652	
+22C3	Territory	 MID-ATLANTICMI	49	112	161	
+aware	Territory	 MID-ATLANTICMI	57	0	57	
+PD-L1	Territory	 MID-ATLANTICMI	306	375	681	
+large academic	Territory	 MID-ATLANTICSC	78	880	958	
+cancer center	Territory	 MID-ATLANTICSC	46	130	176	
+large academic center stated	Territory	 MID-WESTIL	25	347	372	
+university hospital	Territory	 MID-WESTIL	6	428	434	
+midwest	Territory	 MID-WESTIL	42	124	166	
+University	Territory	 MID-WESTIL	14	366	380	
+RTL at a large academic center	Territory	 MID-WESTIL	22	169	191	
+PDL-1	Territory	 MID-WESTIL	50	881	931	
+mostly	Territory	 MID-WESTIL	34	0	34	
+line	Territory	 MID-WESTIL	345	108	453	
+strong	Territory	 MID-WESTIL	50	10	60	
+issue	Territory	 MID-WESTIL	87	0	87	
+recently	Territory	 MID-WESTIL	93	0	93	
+meeting	Territory	 MID-WESTIL	239	35	274	
+noted	Territory	 MID-WESTIL	144	0	144	
+NTL	Territory	 MID-WESTIL	311	710	1021	
+stated	Territory	 MID-WESTIL	860	118	978	
+NCCN center in the midwest stated	Territory	 MN	12	299	311	
+exercise	Territory	 MN	5	238	243	
+P&T committee	Territory	 MN	8	478	486	
+NCCN center	Territory	 MN	26	280	306	
+AI stated	Territory	 MN	24	171	195	
+payor	Territory	 MN	7	23	30	
+order sets	Territory	 MN	8	321	329	
+reactive discussion	Territory	 MN	9	310	319	
+advisor	Territory	 MN	27	231	258	
+build	Territory	 MN	10	21	31	
+midwest	Territory	 MN	42	124	166	
+expression levels	Territory	 MN	41	170	211	
+unsolicited	Territory	 MN	99	200	299	
+perspective	Territory	 MN	25	0	25	
+chair	Territory	 MN	26	260	286	
+panelist	Territory	 MN	134	164	298	
+minimal	Territory	 MN	20	0	20	
+o	Territory	 MN	46	220	266	
+NCCN panelist	Territory	 MN	94	149	243	
+AI	Territory	 MN	121	70	191	
+RAI	Territory	 MS	15	701	716	
+context of an online lecture	Territory	 MS	7	659	666	
+NAI	Territory	 MS	7	282	289	
+NCCN 2016 Webex Congress Series	Territory	 MS	7	657	664	
+proactive meeting to discuss CM-026	Territory	 MS	7	257	264	
+Bone Marrow Transplant Director	Territory	 MS	5	713	718	
+academic institution in the HSL South	Territory	 MS	10	110	120	
+Annual New Orleans Summer Cancer	Territory	 MS	4	341	345	
+LAI	Territory	 MS	4	238	242	
+RAI/NSCLC	Territory	 MS	8	175	183	
+made the following comments	Territory	 MS	17	549	566	
+South	Territory	 MS	20	360	380	
+NCCN panelist for NSCLC	Territory	 MS	11	482	493	
+Assoc	Territory	 MS	3	312	315	
+RCTs	Territory	 MS	3	541	544	
+Vice Chancellor Clin Res	Territory	 MS	3	312	315	
+territory	Territory	 MS	35	349	384	
+shared the following unsolicited insights	Territory	 MS	26	724	750	
+national access influencer	Territory	 MS	7	486	493	
+NSCLC NCCN panelist	Territory	 MS	17	665	682	
+q3wk	Territory	 N. CA	14	425	439	
+myocarditis	Territory	 N. CA	12	62	74	
+TLs have stated	Territory	 N. CA	21	203	224	
+IO-IO	Territory	 N. CA	21	757	778	
+PDL-1	Territory	 N. CA	50	881	931	
+TLs	Territory	 N. CA	98	6	104	
+provided the following unsolicited insights	Territory	 N.CA	45	146	191	
+Met with a national/regional lung	Territory	 N.CA	10	211	221	
+Met with a regional	Territory	 N.CA	21	174	195	
+AI/TL post-ESMO	Territory	 N.CA	9	660	669	
+AI/TL	Territory	 N.CA	27	661	688	
+Met with a national	Territory	 N.CA	25	644	669	
+genitourinary	Territory	 N.CA	3	757	760	
+sensitivity	Territory	 N.CA	3	7	10	
+Tony Wang	Territory	 N.CA	3	100	103	
+disclosed	Territory	 N.CA	13	182	195	
+hit PFS	Territory	 N.CA	6	224	230	
+CM 026	Territory	 N.CA	27	207	234	
+consideration	Territory	 N.CA	18	0	18	
+P&T	Territory	 N.CA	18	182	200	
+following unsolicited insights	Territory	 N.CA	79	48	127	
+commitment	Territory	 N.CA	6	0	6	
+hypothesis	Territory	 N.CA	6	227	233	
+KN 024	Territory	 N.CA	17	248	265	
+SQ	Territory	 N.CA	8	0	8	
+organization	Territory	 N.CA	14	154	168	
+RTL from a major academic institution	Territory	 ND	20	232	252	
+community institution	Territory	 ND	31	221	252	
+NCCN center in the midwest stated	Territory	 ND	12	299	311	
+026 Top 300	Territory	 ND	7	245	252	
+large community institution	Territory	 ND	13	1371	1384	
+exercise	Territory	 ND	5	238	243	
+academic institution mentioned	Territory	 ND	14	47	61	
+P&T committee	Territory	 ND	8	478	486	
+KEYNOTE-024	Territory	 ND	19	76	95	
+NCCN center	Territory	 ND	26	280	306	
+AI stated	Territory	 ND	24	171	195	
+CheckMate 227	Territory	 ND	8	8	16	
+second-line	Territory	 ND	17	63	80	
+first-line	Territory	 ND	26	54	80	
+major academic institution	Territory	 ND	34	225	259	
+advisor	Territory	 ND	27	231	258	
+expression levels	Territory	 ND	41	170	211	
+poster	Territory	 ND	23	284	307	
+midwest	Territory	 ND	42	124	166	
+perspective	Territory	 ND	25	0	25	
+Northeast	Territory	 NEW ENGLANDMA	9	121	130	
+IME	Territory	 NEW ENGLANDMA	3	0	3	
+New England	Territory	 NEW ENGLANDMA	17	970	987	
+cell carcinoma	Territory	 NEW ENGLANDMA	7	40	47	
+NCCN institution	Territory	 NEW ENGLANDMA	16	109	125	
+immuno-oncology	Territory	 NEW ENGLANDMA	11	54	65	
+produce	Territory	 NEW ENGLANDMA	11	0	11	
+US	Territory	 NEW ENGLANDMA	14	24	38	
+thought leader	Territory	 NEW ENGLANDMA	25	22	47	
+Boston	Territory	 NEW ENGLANDMA	40	82	122	
+MD	Territory	 NEW ENGLANDMA	29	71	100	
+ipilimumab	Territory	 NEW ENGLANDMA	22	17	39	
+renal	Territory	 NEW ENGLANDMA	22	26	48	
+cabozantinib	Territory	 NEW ENGLANDMA	27	137	164	
+IO agents	Territory	 NEW ENGLANDMA	45	174	219	
+major	Territory	 NEW ENGLANDMA	90	483	573	
+advanced	Territory	 NEW ENGLANDMA	36	0	36	
+hospital	Territory	 NEW ENGLANDMA	72	479	551	
+improved	Territory	 NEW ENGLANDMA	36	0	36	
+care	Territory	 NEW ENGLANDMA	75	12	87	
+NTL in the Boston area mentioned	Territory	 NEW ENGLANDN.NY	9	137	146	
+Boston area	Territory	 NEW ENGLANDN.NY	19	27	46	
+RTL at a large academic center	Territory	 NEW ENGLANDN.NY	22	169	191	
+bleo	Territory	 NEW ENGLANDN.NY	17	114	131	
+Boston	Territory	 NEW ENGLANDN.NY	40	82	122	
+BV	Territory	 NEW ENGLANDN.NY	33	158	191	
+stop	Territory	 NEW ENGLANDN.NY	67	137	204	
+mentioned	Territory	 NEW ENGLANDN.NY	289	130	419	
+Northeast	Territory	 NH	9	121	130	
+IME	Territory	 NH	3	0	3	
+New England	Territory	 NH	17	970	987	
+cell carcinoma	Territory	 NH	7	40	47	
+NCCN institution	Territory	 NH	16	109	125	
+immuno-oncology	Territory	 NH	11	54	65	
+produce	Territory	 NH	11	0	11	
+US	Territory	 NH	14	24	38	
+thought leader	Territory	 NH	25	22	47	
+Boston	Territory	 NH	40	82	122	
+MD	Territory	 NH	29	71	100	
+ipilimumab	Territory	 NH	22	17	39	
+renal	Territory	 NH	22	26	48	
+cabozantinib	Territory	 NH	27	137	164	
+IO agents	Territory	 NH	45	174	219	
+major	Territory	 NH	90	483	573	
+advanced	Territory	 NH	36	0	36	
+hospital	Territory	 NH	72	479	551	
+improved	Territory	 NH	36	0	36	
+care	Territory	 NH	75	12	87	
+NCI	Territory	 NORTH CENTRALIA	16	112	128	
+hematologic malignancies	Territory	 NORTH CENTRALIA	5	4	9	
+PET	Territory	 NORTH CENTRALIA	11	0	11	
+cancer center	Territory	 NORTH CENTRALIA	46	130	176	
+lymphoma	Territory	 NORTH CENTRALIA	73	12	85	
+academic center	Territory	 NORTH CENTRALIA	103	319	422	
+noted	Territory	 NORTH CENTRALIA	144	0	144	
+NCCN center in the midwest stated	Territory	 NORTH CENTRALWI	12	299	311	
+exercise	Territory	 NORTH CENTRALWI	5	238	243	
+P&T committee	Territory	 NORTH CENTRALWI	8	478	486	
+NCCN center	Territory	 NORTH CENTRALWI	26	280	306	
+AI stated	Territory	 NORTH CENTRALWI	24	171	195	
+payor	Territory	 NORTH CENTRALWI	7	23	30	
+order sets	Territory	 NORTH CENTRALWI	8	321	329	
+reactive discussion	Territory	 NORTH CENTRALWI	9	310	319	
+advisor	Territory	 NORTH CENTRALWI	27	231	258	
+build	Territory	 NORTH CENTRALWI	10	21	31	
+midwest	Territory	 NORTH CENTRALWI	42	124	166	
+expression levels	Territory	 NORTH CENTRALWI	41	170	211	
+unsolicited	Territory	 NORTH CENTRALWI	99	200	299	
+perspective	Territory	 NORTH CENTRALWI	25	0	25	
+chair	Territory	 NORTH CENTRALWI	26	260	286	
+panelist	Territory	 NORTH CENTRALWI	134	164	298	
+minimal	Territory	 NORTH CENTRALWI	20	0	20	
+o	Territory	 NORTH CENTRALWI	46	220	266	
+NCCN panelist	Territory	 NORTH CENTRALWI	94	149	243	
+AI	Territory	 NORTH CENTRALWI	121	70	191	
+Path TL	Territory	 NORTHEASTNY	18	230	248	
+Path	Territory	 NORTHEASTNY	19	0	19	
+LDT	Territory	 NORTHEASTNY	4	22	26	
+IVD	Territory	 NORTHEASTNY	6	146	152	
+score	Territory	 NORTHEASTNY	21	156	177	
+pathologist	Territory	 NORTHEASTNY	45	211	256	
+22C3	Territory	 NORTHEASTNY	49	112	161	
+reported	Territory	 NORTHEASTNY	182	10	192	
+TL stated	Territory	 NORTHEASTNY	202	488	690	
+TL	Territory	 NORTHEASTNY	1157	51	1208	
+southeast region	Territory	 NORTHEASTNYC	7	169	176	
+gathered the following unsolicited	Territory	 NORTHEASTNYC	6	175	181	
+Ritchie	Territory	 NORTHEASTNYC	6	170	176	
+NCI-designated	Territory	 NORTHEASTNYC	8	157	165	
+Joseph	Territory	 NORTHEASTNYC	7	170	177	
+junior	Territory	 NORTHEASTNYC	4	394	398	
+faculty	Territory	 NORTHEASTNYC	4	394	398	
+yield	Territory	 NORTHEASTNYC	5	0	5	
+evolving	Territory	 NORTHEASTNYC	10	77	87	
+comparable	Territory	 NORTHEASTNYC	13	498	511	
+wasn	Territory	 NORTHEASTNYC	8	109	117	
+symposium	Territory	 NORTHEASTNYC	26	152	178	
+NTLs	Territory	 NORTHEASTNYC	13	120	133	
+thoracic	Territory	 NORTHEASTNYC	10	142	152	
+position	Territory	 NORTHEASTNYC	14	383	397	
+landscape	Territory	 NORTHEASTNYC	40	0	40	
+doesn	Territory	 NORTHEASTNYC	36	94	130	
+volunteered	Territory	 NORTHEASTNYC	28	243	271	
+CM-026	Territory	 NORTHEASTNYC	52	177	229	
+member	Territory	 NORTHEASTNYC	37	111	148	
+cHD	Territory	 NORTHEASTNYC-NY	6	318	324	
+bar	Territory	 NORTHEASTNYC-NY	13	0	13	
+Community TL	Territory	 NORTHWESTAK	73	820	893	
+utilized	Territory	 NORTHWESTAK	45	0	45	
+offered	Territory	 NORTHWESTAK	88	0	88	
+HL	Territory	 NORTHWESTAK	51	171	222	
+NW territory	Territory	 NORTHWESTCO	14	1448	1462	
+sky-rocketed	Territory	 NORTHWESTCO	3	577	580	
+NeoGenomics	Territory	 NORTHWESTCO	8	554	562	
+laboratory	Territory	 NORTHWESTCO	7	1271	1278	
+clone	Territory	 NORTHWESTCO	5	149	154	
+diagnostics	Territory	 NORTHWESTCO	8	1288	1296	
+medical director	Territory	 NORTHWESTCO	8	365	373	
+healthcare	Territory	 NORTHWESTCO	6	688	694	
+Ventana platform	Territory	 NORTHWESTCO	7	145	152	
+reflex testing	Territory	 NORTHWESTCO	11	91	102	
+medical oncologists	Territory	 NORTHWESTCO	23	176	199	
+platform	Territory	 NORTHWESTCO	18	149	167	
+IHC	Territory	 NORTHWESTCO	25	536	561	
+insights	Territory	 NORTHWESTCO	137	0	137	
+molecular	Territory	 NORTHWESTCO	17	42	59	
+SP142	Territory	 NORTHWESTCO	17	146	163	
+pathologist	Territory	 NORTHWESTCO	45	211	256	
+network	Territory	 NORTHWESTCO	18	441	459	
+pathology	Territory	 NORTHWESTCO	19	213	232	
+gained	Territory	 NORTHWESTCO	19	86	105	
+provided the following unsolicited insights	Territory	 NORTHWESTOR	45	146	191	
+Met with a national/regional lung	Territory	 NORTHWESTOR	10	211	221	
+Met with a regional	Territory	 NORTHWESTOR	21	174	195	
+AI/TL post-ESMO	Territory	 NORTHWESTOR	9	660	669	
+AI/TL	Territory	 NORTHWESTOR	27	661	688	
+Met with a national	Territory	 NORTHWESTOR	25	644	669	
+genitourinary	Territory	 NORTHWESTOR	3	757	760	
+sensitivity	Territory	 NORTHWESTOR	3	7	10	
+Tony Wang	Territory	 NORTHWESTOR	3	100	103	
+disclosed	Territory	 NORTHWESTOR	13	182	195	
+hit PFS	Territory	 NORTHWESTOR	6	224	230	
+CM 026	Territory	 NORTHWESTOR	27	207	234	
+consideration	Territory	 NORTHWESTOR	18	0	18	
+P&T	Territory	 NORTHWESTOR	18	182	200	
+following unsolicited insights	Territory	 NORTHWESTOR	79	48	127	
+commitment	Territory	 NORTHWESTOR	6	0	6	
+hypothesis	Territory	 NORTHWESTOR	6	227	233	
+KN 024	Territory	 NORTHWESTOR	17	248	265	
+SQ	Territory	 NORTHWESTOR	8	0	8	
+organization	Territory	 NORTHWESTOR	14	154	168	
+international GI conference	Territory	 NYC - ST2	17	43	60	
+said	Territory	 NYC - ST2	479	0	479	
+international GI conference	Territory	 NYC -ST2	17	43	60	
+pancreatic cancer	Territory	 NYC -ST2	9	57	66	
+NY	Territory	 New York City - ST1	13	194	207	
+told	Territory	 New York City - ST1	136	65	201	
+affiliation	Territory	 No longer with FM	3	467	470	
+voluntarily	Territory	 OK	7	0	7	
+I-O agents	Territory	 OK	14	6	20	
+H&N cancer	Territory	 OK	22	39	61	
+CM-026	Territory	 OK	52	177	229	
+TL shared	Territory	 OK	119	1081	1200	
+feels	Territory	 OK	397	56	453	
+lung TL said	Territory	 PA	16	1110	1126	
+atezi	Territory	 PA	5	27	32	
+Regional lung TL told	Territory	 PA	21	2	23	
+Fall ECOG	Territory	 PA	4	148	152	
+voiced his opinion	Territory	 PA	7	16	23	
+Local lung TL commented	Territory	 PA	14	0	14	
+isn	Territory	 PA	11	106	117	
+GR	Territory	 PA	5	0	5	
+second	Territory	 PA	5	0	5	
+H&N TL	Territory	 PA	20	432	452	
+sutent	Territory	 PA	8	3	11	
+TL told	Territory	 PA	65	938	1003	
+Local	Territory	 PA	184	1056	1240	
+t	Territory	 PA	117	0	117	
+doesn	Territory	 PA	36	94	130	
+TL said	Territory	 PA	86	62	148	
+said	Territory	 PA	479	0	479	
+line	Territory	 PA	345	108	453	
+told	Territory	 PA	136	65	201	
+national	Territory	 PA	183	979	1162	
+HCP	Territory	 Puerto Rico	115	124	239	
+consultant	Territory	 Puerto Rico MSL	5	207	212	
+Post-ASCO	Territory	 Puerto Rico MSL	6	418	424	
+Northeast	Territory	 RI	9	121	130	
+IME	Territory	 RI	3	0	3	
+New England	Territory	 RI	17	970	987	
+cell carcinoma	Territory	 RI	7	40	47	
+NCCN institution	Territory	 RI	16	109	125	
+immuno-oncology	Territory	 RI	11	54	65	
+produce	Territory	 RI	11	0	11	
+US	Territory	 RI	14	24	38	
+thought leader	Territory	 RI	25	22	47	
+Boston	Territory	 RI	40	82	122	
+MD	Territory	 RI	29	71	100	
+ipilimumab	Territory	 RI	22	17	39	
+renal	Territory	 RI	22	26	48	
+cabozantinib	Territory	 RI	27	137	164	
+IO agents	Territory	 RI	45	174	219	
+major	Territory	 RI	90	483	573	
+advanced	Territory	 RI	36	0	36	
+hospital	Territory	 RI	72	479	551	
+improved	Territory	 RI	36	0	36	
+care	Territory	 RI	75	12	87	
+CLL	Territory	 ROCKY MOUNTAINUT	5	98	103	
+like to see a trial	Territory	 ROCKY MOUNTAINUT	15	14	29	
+GVHD	Territory	 ROCKY MOUNTAINUT	21	118	139	
+high-grade	Territory	 S. CA	5	192	197	
+NTL in GU	Territory	 S. CA	9	499	508	
+NTL said	Territory	 S. CA	24	14	38	
+Academic NTL	Territory	 S. CA	11	12	23	
+RTL said	Territory	 S. CA	31	0	31	
+anti-PD-1	Territory	 S. CA	31	661	692	
+KN-024 and CM-026	Territory	 S. CA	15	310	325	
+cited	Territory	 S. CA	33	0	33	
+first-line	Territory	 S. CA	26	54	80	
+guide	Territory	 S. CA	28	116	144	
+shared	Territory	 S. CA	507	1	508	
+feels	Territory	 S. CA	397	56	453	
+NCCN center in the midwest stated	Territory	 SD	12	299	311	
+exercise	Territory	 SD	5	238	243	
+P&T committee	Territory	 SD	8	478	486	
+NCCN center	Territory	 SD	26	280	306	
+AI stated	Territory	 SD	24	171	195	
+payor	Territory	 SD	7	23	30	
+order sets	Territory	 SD	8	321	329	
+reactive discussion	Territory	 SD	9	310	319	
+advisor	Territory	 SD	27	231	258	
+build	Territory	 SD	10	21	31	
+midwest	Territory	 SD	42	124	166	
+expression levels	Territory	 SD	41	170	211	
+unsolicited	Territory	 SD	99	200	299	
+perspective	Territory	 SD	25	0	25	
+chair	Territory	 SD	26	260	286	
+panelist	Territory	 SD	134	164	298	
+minimal	Territory	 SD	20	0	20	
+o	Territory	 SD	46	220	266	
+NCCN panelist	Territory	 SD	94	149	243	
+AI	Territory	 SD	121	70	191	
+RAI	Territory	 SOUTHAK	15	701	716	
+context of an online lecture	Territory	 SOUTHAK	7	659	666	
+NAI	Territory	 SOUTHAK	7	282	289	
+NCCN 2016 Webex Congress Series	Territory	 SOUTHAK	7	657	664	
+proactive meeting to discuss CM-026	Territory	 SOUTHAK	7	257	264	
+Bone Marrow Transplant Director	Territory	 SOUTHAK	5	713	718	
+academic institution in the HSL South	Territory	 SOUTHAK	10	110	120	
+Annual New Orleans Summer Cancer	Territory	 SOUTHAK	4	341	345	
+LAI	Territory	 SOUTHAK	4	238	242	
+RAI/NSCLC	Territory	 SOUTHAK	8	175	183	
+made the following comments	Territory	 SOUTHAK	17	549	566	
+South	Territory	 SOUTHAK	20	360	380	
+NCCN panelist for NSCLC	Territory	 SOUTHAK	11	482	493	
+Assoc	Territory	 SOUTHAK	3	312	315	
+RCTs	Territory	 SOUTHAK	3	541	544	
+Vice Chancellor Clin Res	Territory	 SOUTHAK	3	312	315	
+territory	Territory	 SOUTHAK	35	349	384	
+shared the following unsolicited insights	Territory	 SOUTHAK	26	724	750	
+national access influencer	Territory	 SOUTHAK	7	486	493	
+NSCLC NCCN panelist	Territory	 SOUTHAK	17	665	682	
+Pediatric Oncology/ Hematology	Territory	 SOUTHTN	4	319	323	
+Pediatric	Territory	 SOUTHTN	11	367	378	
+Brentuximab vedotin	Territory	 SOUTHTN	11	135	146	
+ASCT	Territory	 SOUTHTN	10	190	200	
+academic center	Territory	 SOUTHTN	103	319	422	
+described	Territory	 SOUTHTN	44	0	44	
+brentuximab	Territory	 SOUTHTN	36	163	199	
+lymphoma	Territory	 SOUTHTN	73	12	85	
+transplant	Territory	 SOUTHTN	92	193	285	
+cHL	Territory	 SOUTHTN	116	190	306	
+large	Territory	 SOUTHTN	283	242	525	
+nivolumab	Territory	 SOUTHTN	335	5	340	
+NTL	Territory	 SOUTHTN	311	710	1021	
+auto	Territory	 SOUTHEASTGA	15	204	219	
+pt	Territory	 SOUTHEASTGA	67	23	90	
+reported	Territory	 SOUTHEASTGA	182	10	192	
+like to see a trial	Territory	 SOUTHWESTS.CA	15	14	29	
+BMS-sponsored	Territory	 TEXASTX	2	50	52	
+novel	Territory	 TEXASTX	10	9	19	
+RAI	Territory	 TN	15	701	716	
+context of an online lecture	Territory	 TN	7	659	666	
+NAI	Territory	 TN	7	282	289	
+NCCN 2016 Webex Congress Series	Territory	 TN	7	657	664	
+proactive meeting to discuss CM-026	Territory	 TN	7	257	264	
+Bone Marrow Transplant Director	Territory	 TN	5	713	718	
+academic institution in the HSL South	Territory	 TN	10	110	120	
+Annual New Orleans Summer Cancer	Territory	 TN	4	341	345	
+LAI	Territory	 TN	4	238	242	
+RAI/NSCLC	Territory	 TN	8	175	183	
+made the following comments	Territory	 TN	17	549	566	
+South	Territory	 TN	20	360	380	
+NCCN panelist for NSCLC	Territory	 TN	11	482	493	
+Assoc	Territory	 TN	3	312	315	
+RCTs	Territory	 TN	3	541	544	
+Vice Chancellor Clin Res	Territory	 TN	3	312	315	
+territory	Territory	 TN	35	349	384	
+shared the following unsolicited insights	Territory	 TN	26	724	750	
+national access influencer	Territory	 TN	7	486	493	
+NSCLC NCCN panelist	Territory	 TN	17	665	682	
+Numerous TLs	Territory	 UT	6	253	259	
+tone	Territory	 UT	4	0	4	
+restriction	Territory	 UT	6	16	22	
+AE profile	Territory	 UT	14	338	352	
+comers	Territory	 UT	20	0	20	
+q3wk	Territory	 UT	14	425	439	
+TLs	Territory	 UT	98	6	104	
+established	Territory	 UT	17	0	17	
+IO-IO	Territory	 UT	21	757	778	
+highly	Territory	 UT	30	34	64	
+key	Territory	 UT	37	0	37	
+PDL1 status	Territory	 UT	39	874	913	
+SOC	Territory	 UT	69	492	561	
+specifically	Territory	 UT	50	48	98	
+increase	Territory	 UT	113	36	149	
+regards	Territory	 UT	112	0	112	
+population	Territory	 UT	222	248	470	
+IO	Territory	 UT	242	52	294	
+1L	Territory	 UT	288	292	580	
+no PD-L1 testing	Territory	 VA&P Sales	5	36	41	
+IDN	Territory	 VA&P Sales	8	100	108	
+customer	Territory	 VA&P Sales	14	0	14	
+medical policy	Territory	 VA&P Sales	10	161	171	
+health	Territory	 VA&P Sales	25	0	25	
+pharmacy	Territory	 VA&P Sales	29	48	77	
+HEOR	Territory	 VA&P Sales	16	20	36	
+contract	Territory	 VA&P Sales	12	83	95	
+class	Territory	 VA&P Sales	21	0	21	
+product	Territory	 VA&P Sales	37	20	57	
+oncology	Territory	 VA&P Sales	97	148	245	
+clinical	Territory	 VA&P Sales	213	0	213	
+Opdivo	Territory	 VA&P Sales	445	28	473	
+Northeast	Territory	 VT	9	121	130	
+IME	Territory	 VT	3	0	3	
+New England	Territory	 VT	17	970	987	
+cell carcinoma	Territory	 VT	7	40	47	
+NCCN institution	Territory	 VT	16	109	125	
+immuno-oncology	Territory	 VT	11	54	65	
+produce	Territory	 VT	11	0	11	
+US	Territory	 VT	14	24	38	
+thought leader	Territory	 VT	25	22	47	
+Boston	Territory	 VT	40	82	122	
+MD	Territory	 VT	29	71	100	
+ipilimumab	Territory	 VT	22	17	39	
+renal	Territory	 VT	22	26	48	
+cabozantinib	Territory	 VT	27	137	164	
+IO agents	Territory	 VT	45	174	219	
+major	Territory	 VT	90	483	573	
+advanced	Territory	 VT	36	0	36	
+hospital	Territory	 VT	72	479	551	
+improved	Territory	 VT	36	0	36	
+care	Territory	 VT	75	12	87	
+:regional TL shared	Territory	 W. TN	18	18	36	
+TL told	Territory	 W. TN	65	938	1003	
+anti-PD1	Territory	 W. TN	38	55	93	
+TL shared	Territory	 W. TN	119	1081	1200	
+offered	Territory	 W. TN	88	0	88	
+commented	Territory	 W. TN	295	327	622	
+provided the following unsolicited insights	Territory	 WA	45	146	191	
+Met with a national/regional lung	Territory	 WA	10	211	221	
+Met with a regional	Territory	 WA	21	174	195	
+AI/TL post-ESMO	Territory	 WA	9	660	669	
+AI/TL	Territory	 WA	27	661	688	
+ASCO'16	Territory	 WA	5	394	399	
+Met with a national	Territory	 WA	25	644	669	
+FDA blueprint	Territory	 WA	6	57	63	
+disclosed	Territory	 WA	13	182	195	
+hit PFS	Territory	 WA	6	224	230	
+CM 026	Territory	 WA	27	207	234	
+distinction	Territory	 WA	5	14	19	
+consideration	Territory	 WA	18	0	18	
+P&T	Territory	 WA	18	182	200	
+following unsolicited insights	Territory	 WA	79	48	127	
+KN 024	Territory	 WA	17	248	265	
+SQ	Territory	 WA	8	0	8	
+organization	Territory	 WA	14	154	168	
+AI	Territory	 WA	121	70	191	
+reactively	Territory	 WA	41	170	211	
+cytology	Territory	 WESTAZ	4	159	163	
+volume	Territory	 WESTAZ	31	9	40	
+in-house	Territory	 WESTAZ	25	127	152	
+score	Territory	 WESTAZ	21	156	177	
+requests	Territory	 WESTAZ	61	545	606	

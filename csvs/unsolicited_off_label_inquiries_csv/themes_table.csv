@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+bms|en,"BMS, combination, study, clinical trials",891,Theme 0
+dose|en,"dosing, nivolumab, Nivo, efficacy",861,Theme 1
+empliciti|en,"Empliciti, Elo, elotuzumab, therapy",610,Theme 2
+data|en,"data, VTE, pts, data with Apix",1750,Theme 3
+noacs|en,"NOACs, bleeding, RWD, NVAF",597,Theme 4
+update|en,"updates, Requested, regarding, discuss",400,Theme 5
+daklinza|en,"Daklinza, Answered, EASL update, GT3",181,Theme 6

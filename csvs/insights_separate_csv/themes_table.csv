@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+rtl|en,"RTL, nivolumab, lung, NTL",1157,Theme 0
+nsclc|en,"NSCLC, 1L, RCC, TL stated",867,Theme 1
+treat|en,"treated, pts, treatment, response",1111,Theme 2
+chl|en,"cHL, switch, patients receiving, prior",342,Theme 3
+bms|en,"BMS, Merck, approval, regards",700,Theme 4
+pdl1|en,"PDL1, trial, efficacy, OS",948,Theme 5
+dose|en,"dose, vs, drug, Keytruda",757,Theme 6

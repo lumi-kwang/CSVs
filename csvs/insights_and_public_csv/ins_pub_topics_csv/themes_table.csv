@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+nivo|en,"Nivo, TL, RTL, Opdivo",2114,Theme 0
+pd-l1|en,"PD-L1, PD-1, antibody, target",1497,Theme 1
+clinical|en,"clinical, measured, baseline, testing",1614,Theme 2
+combination|en,"combination, ipilimumab, melanoma, treatment",4294,Theme 3
+administer|en,"administered, cycles, Patients receive, atezolizumab",1578,Theme 4
+evaluate|en,"evaluate, trial, clinical trials, monotherapy",1881,Theme 5
+os|en,"OS, overall survival, PFS, response",2118,Theme 6

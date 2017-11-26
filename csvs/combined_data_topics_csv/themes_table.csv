@@ -1,0 +1,8 @@
+cluster_label,name,docs,id
+opdivo|en,"Opdivo, use of nivolumab, NSCLC, melanoma",5223,Theme 0
+bms|en,"BMS, TL, lung, RTL",2331,Theme 1
+data|en,"data, Eliquis, regimen, apixaban",5683,Theme 2
+combination|en,"combination, trial, pembrolizumab, efficacy",4331,Theme 3
+ipilimumab|en,"ipilimumab, PD-L1, agents, chemotherapy",2680,Theme 4
+toxicity|en,"toxicity, adverse events, progression, occur",1831,Theme 5
+tumor|en,"tumor, OS, overall survival, response",3174,Theme 6
