@@ -1,13 +1,34 @@
-terms,example text
-"[SCCHN, TL told, GU] 08-14-2016","A Lung SCCHN TL told me that he has already been visited by Merck and that since they don't have a need for PD-L1 testing and the ORR between Nivo and Pembro look similar, he will likely use Pembro for most patients even after Nivo gains approval in SCCHN.  He likes that we have a RCT and OS survival but at this time not enough to just use Nivo"
-[10-28-2016,"At an international GI conference, NTL said, CRC] 10-28-2016 At an international GI conference, a NTL said, about advances in immunotherapy in CRC: We continue to pursue immunotherapy because although conventional therapies push survival curves to the right, IO pushes it up ORR about 16% with nivolumab. Interestingly, the responses were across the board and were durable. In GI cancers, there are nice and deep responses with MMR deficiency.  Responses are durable and pt are ready for treatment holiday after 2 years of therapy with maintained response."
-"[tissue, mutational load, status] 03-25-2016","The following unsolicited insights were provided by speakers from the podium at a recent oncology conference attended by national AI?s/TL?s in various tumor types and hematological malignancies.   Breast 
+"[SCCHN, TL told, GU]"," 08-14-2016
+
+A Lung SCCHN TL told me that he has already been visited by Merck and that since they don't have a need for PD-L1 testing and the ORR between Nivo and Pembro look similar, he will likely use Pembro for most patients even after Nivo gains approval in SCCHN.  He likes that we have a RCT and OS survival but at this time not enough to just use Nivo"
+"[10-28-2016
+
+At an international GI conference, NTL said, CRC]"," 10-28-2016
+
+At an international GI conference, a NTL said, about advances in immunotherapy in CRC:
+
+We continue to pursue immunotherapy because although conventional therapies push survival curves to the right, IO pushes it up
+
+ORR about 16% with nivolumab. Interestingly, the responses were across the board and were durable.
+
+In GI cancers, there are nice and deep responses with MMR deficiency.  Responses are durable and pt are ready for treatment holiday after 2 years of therapy with maintained response."
+"[tissue, mutational load, status]"," 03-25-2016
+
+The following unsolicited insights were provided by speakers from the podium at a recent oncology conference attended by national AI?s/TL?s in various tumor types and hematological malignancies.  
+
+Breast 
 ?	While there is limited data, panel believed for metastatic triple negative breast immunotherapy is a high viable option
-?	Sited studies currently ongoing with Merck and Roche in the neoadjuvant setting using IO with taxane. Developmental Therapeutics
+?	Sited studies currently ongoing with Merck and Roche in the neoadjuvant setting using IO with taxane.
+
+Developmental Therapeutics
 ?	One panelist made a comment to the audience about VALUE of care; the importance of consideration of value in oncology care.  
-o	For example, the importance of consideration of the idea of limiting lines of therapy before patient goes to hospice.  Also, he mentioned some pathways are thinking of limiting to 2 lines before hospice. Hematological malignancies Board
+o	For example, the importance of consideration of the idea of limiting lines of therapy before patient goes to hospice.  Also, he mentioned some pathways are thinking of limiting to 2 lines before hospice.
+
+Hematological malignancies Board
 ?	Panelist said RVD is strong 1st line therapy, based upon the SWOG trial presented at ASH 2015, because of OS with RVD.  He says he believes KRD may be treatment of future, even though KRD not indicated for 1L currently.
-?	Panelist says there is trial of RD v. KRD which may show whether it is a good 1st line treatment. Lung 
+?	Panelist says there is trial of RD v. KRD which may show whether it is a good 1st line treatment.
+
+Lung 
 Testing
 ?	Consensus with the lung panel that ordering broad molecular testing should always be an option and should be standard of care however the known issue is limitation of tissue
 ?	Concerns around timing of results from NGS may delay treatment for patients, ~3 weeks is too long especially when 15% of these patients waiting never receive treatment
@@ -23,25 +44,39 @@ o	18% of the audience selected, Pembrolizumab if PD?L1 positive (>1%)
 ?	A few RTLs mentioned that in the setting of >1% PD-L1 expression they would give pembrolizumab for patients needing the Q3W dosing schedule and would do the same in adeno histology in the 2L setting.
 ?	Panel discussed managing immune-mediated AEs from PD1 agents are often responsive to immunosuppression.  
 ?	One panelist said data for SQ and NSQ very different.  The case being discussed was a SQ patient.  He mentioned that IASCLC is doing studies around PDL1 testing.  He says he would change treatment approach of going straight to nivo if this was a NSQ patient (didn?t elaborate more).
-?	Lung panelist mentioned to the audience about the availability of the ASCO/MSKCC DrugAbacus tool (assesses the value of drugs compared to pricing given consideration of factors such as cost, toxicity, and efficacy). He mentioned the idea that If you can?t show that a drug is better, it supports considering restrictions. 
+?	Lung panelist mentioned to the audience about the availability of the ASCO/MSKCC DrugAbacus tool (assesses the value of drugs compared to pricing given consideration of factors such as cost, toxicity, and efficacy). He mentioned the idea that If you can?t show that a drug is better, it supports considering restrictions.
+
+
 Melanoma
 Adjuvant
 ?	Panel presented a case where patient was given adjuvant ipilimumab as part of the EORTC trial and after 2 cycles of 10 mg/kg dose patient developed severe GI perforations.  Issues raised were 1) why the 10 mg/kg dose was even chosen 2) significant cost but was later amended to the dose being supported through BMS APP 3) significant toxicities leading to discontinuation
 ?	Panel discussed while the incidence low, case of myocarditis and it is a significant concern to monitor for 
-?	One RTL said the toxicities of ipilimumab at 10 mg/kg are quite sobering comparing it to IL2 Testing	
+?	One RTL said the toxicities of ipilimumab at 10 mg/kg are quite sobering comparing it to IL2
+
+Testing	
 ?	One RTL mentioned he is not testing outside of clinical trials, and is not done routinely as data is still revolving
 ?	Discussion on which types of patients would tolerate regimen best and consensus on those who are healthy and with good performance status
 ?	Some community oncologist are using PD-1 inhibitors off label for cutaneous SCC as they?ve seen positive responses to PD1-inhibitors and have not been turned down by insurance companies, often challenging for some patients to participate in a clinical trial program because of location
 ?	RTL mentioned that we are in a unique space where knowledge of drug is going to move faster than a FDA approval 
 ?	TL panel member mentioned his experience has been that grade of immune-mediated AE likely correlated to depth of response
 ?	Consensus that the direction moving forward would be combination checkpoint inhibitor with targeted strategy.  Interesting how ?one major company going for targeted approach and another company doing immune checkpoint combination.?"
-"[requests, perform, lab] 12-12-2016",A Lung NTL told me that he has heard the Foundation is using the Ventana SP142 antibody to fulfill requests for some of its PD-1 testing results.  The TL is aware of the Project Blueprint data and does not believe this test should be used.  The TL noted that this might hurt Merck since the SP142 test seems to read consistently lower than the Dako tests and could turn >50% staining to less than and thus out of label for Pembro.  TL went on to say this might effect BMS also since some physicians have been reserving Opdivo for patients with PD-L1 negative tests and Atezolizumab with its q3w dosing might be desirable.
-"[reduce, wastage, cost] 12-01-2016","Met with the drug information department of a key national/regional institution AI, who provided the following unsolicited insights:
+"[requests, perform, lab]"," 12-12-2016
+
+A Lung NTL told me that he has heard the Foundation is using the Ventana SP142 antibody to fulfill requests for some of its PD-1 testing results.  The TL is aware of the Project Blueprint data and does not believe this test should be used.  The TL noted that this might hurt Merck since the SP142 test seems to read consistently lower than the Dako tests and could turn >50% staining to less than and thus out of label for Pembro.  TL went on to say this might effect BMS also since some physicians have been reserving Opdivo for patients with PD-L1 negative tests and Atezolizumab with its q3w dosing might be desirable."
+"[reduce, wastage, cost]"," 12-01-2016
+
+Met with the drug information department of a key national/regional institution AI, who provided the following unsolicited insights:
 ?	AI reactively shared that her institution conducted some internal analysis comparing the cost of Nivo and Pembro.  
 ?	We reviewed the HEOR data comparing Nivo and Pembro showing the trend of less wastage with Nivo compared to Pembro and potential savings across a range of patient weights due to the vial disposition.  
 ?	She shared that due to the reduced wastage with Nivo use, with the availability of 40mg and 100mg vials, and the fact that Pembro only comes in 100mg vials, Nivo came out as more cost effective due to the reduced wastage in their analysis."
-"[label, insurance, compassionate use] 12-05-2016",RTL shared that thus far when using pembro in the 1L NSCLC setting for patients < 50% PDL1 expression they have met no resistance in having it covered by insurance; TL feels that the insurance company only really looking for 1L data in general and the specifics to PDL1 status aren't necessary (so far) in reimbursement
-"[patient population, difference, CM 026] 11-18-2016","Met with a NSCLC NCCN Panelist national AI and regional head and neck AI, who reactively provided the following insights: ?	He thinks that failure of CM 026 trial to achieve a difference in PFS was due to the trial design, with BMS reaching for a patient population PDL1 greater than or equal to 5% as too broad.
+"[label, insurance, compassionate use]"," 12-05-2016
+
+RTL shared that thus far when using pembro in the 1L NSCLC setting for patients < 50% PDL1 expression they have met no resistance in having it covered by insurance; TL feels that the insurance company only really looking for 1L data in general and the specifics to PDL1 status aren't necessary (so far) in reimbursement"
+"[patient population, difference, CM 026]"," 11-18-2016
+
+Met with a NSCLC NCCN Panelist national AI and regional head and neck AI, who reactively provided the following insights:
+
+?	He thinks that failure of CM 026 trial to achieve a difference in PFS was due to the trial design, with BMS reaching for a patient population PDL1 greater than or equal to 5% as too broad.
 ?	He said that perhaps Merck reached for a population that was too narrow, having conducted the study at so many locations just to achieve the appropriate numbers of patients in KN.
 ?	He found it odd that sex was not stratified for in CM 026, given that it's a well-known prognosticator of how well patients tend to do.  
 ?	AI thinks that despite the negative result in CM 026, he thinks that Nivo and Pembro are not that different.
@@ -51,7 +86,11 @@ Adjuvant
 ?	After we informed him that the SCCHN indication is weight based dosing, He said that his institution might just use flat dosing for SCCHN like in other indications to reduce confusion and inconsistency in the pharmacy preparation.
 ?	He was already aware of the newly approved 141 SCCHN indication.  After reviewing the CM 141 QOL results showing favorable maintenance of PRO?s when comparing the Nivo group?s maintenance of QOL compared to the sharp decreases seen in the chemo group, he acknowledged the results and stated that QOL results are essential to any such trials in the head and neck space.
 ?	His institution is wanting to narrow available PD1 agents in their pathways and will be sitting down to evaluate the 2L lung space as well."
-"[mentioned, poster, SCLC] 08-24-2016","Met with a regional drug use management and pathway implementation AI, who provided the following unsolicited insights. ?	He says they are still in contracting for past year with VIA, which has not been finalized.  
+"[mentioned, poster, SCLC]"," 08-24-2016
+
+Met with a regional drug use management and pathway implementation AI, who provided the following unsolicited insights.
+
+?	He says they are still in contracting for past year with VIA, which has not been finalized.  
 ?	At this point in time, VIA pathway not yet implemented for his organization, but he has access to the VIA ?sandbox? so he is able to access the system and has knowledge of pathways for tumor types.
 ?	In regards to SCLC, he reactively disclosed that the pathway has been updated recently after the update of the NCCN guidelines (inclusion of regimen as option in 2L).
 ?	AI said that Nivo is on pathway for NSCLC.  If a patient does not have a PDL1 test, it?s unknown, or the test shows a low or non-expressor, then Nivo is the choice.  
@@ -59,19 +98,41 @@ Adjuvant
 ?	He mentioned that VIA pathway adherence goal is 80% for his organization (didn?t specific whether this is target across tumors or is goal for each tumor type).
 ?	He says VIA pathway is provider centric, which is useful in community practices, and less useful in a academic setting where providers are more familiar with SOC and understand the data. 
 ?	AI said that the VIA pathway adherence also has a patient choice component, such as a preference for orals over infusible medicines.  He said this is not fully incorporated into the system yet."
-"[prefer, 2nd line, agents] 12-07-2016","A regional TL stated that while he thinks most of the PD-1/PD-L1 agents are going to be equivalent in terms of efficacy across the different tumor types, he would prefer to use Opdivo for everything. He has the most experience with Opdivo and thinks that consistency with dosing and safety management would help reduce errors in their practice."
-"[chemo, chemotherapy, Ipi+Nivo] 11-10-2016","Local community TL in commenting on CM-026 results of PD1 monotherapy not being enough in 1L broad NSCLC patient population, he does feel IO-IO combo is the answer as he truly feels there needs to be something priming the immune system in addition to PD1 therapy, however he does feel ipi is far too toxic and other combos of nivo should be focused on more; TL stated that NSCLC patients are often more beaten down than melanoma patients so while he does feel there can perhaps remain a role for ipi+nivo in melanoma, another IO+nivo option will be better for NSCLC patients"
-"[ie, space, histology] 03-01-2016","Nurses at a large gathering for ONS dinner in Oregon, interested in comments regarding chemo precautions for infusion nurses and pharmacy staff in relation to historic uses of chemotherapy drugs and precautions. Article in ONS magazine regarding importance of implementing safety in administration of cancer agents triggered discussion. Nurse liaison retorted with the importance of safety precautions with mixing or administering Opdivo and Yervoy products and discussed potential for long term effects for patients (ie pregnancy precautions). Nurses volunteered they are reforming their current SOP's and practices in efforts to protect nurses, and provide specific guidance for pregnant nurses administering cancer agents."
-"[Nivo monotherapy, ipi/nivo combo, expectations] 06-12-2016","Onc shared full understanding of 1st line implication and is impressed with data released at ASCO with ipi/nivo combo. Doc quoted the exact dosing for ipi/nivo including q6 or q12w dosing of ipi.  Doc mentioned best case 1st line patients get 10-12 months control with chemo, this will ""double that expectation"". Doc ""cant wait to see OS"""
-"[treat patients, clinically, SD] 04-03-2016",A lung RTL from NY City volunteered that he suspects that AztraZeneca's MYSTIC trial in 1st line NSCLC may be under powered to show a significant difference in PFS versus chemotherapy.  He highlighted his own experience in 209-227 in which he has observed good objective responses in patients on either the Opdivo+Yervoy and chemotherapy arms.  The TL beleives the true benefit will show up in the durability of the clinical responses for the I-O treated patients.
-"[mutations, BRAF, EGFR] 05-27-2016",A community oncologist shared that at his practice PD-L1 testing has been recently included together with testing for EGFR activating mutations and ALK translocation to the initial molecular evaluation of patients with NSQ-NSCLC.
-"[concerns, adverse events, severe] 03-25-2016","The following unsolicited insights were provided by speakers from the podium at a recent oncology conference attended by national AI?s/TL?s in various tumor types and hematological malignancies.   Breast 
+"[prefer, 2nd line, agents]"," 12-07-2016
+
+A regional TL stated that while he thinks most of the PD-1/PD-L1 agents are going to be equivalent in terms of efficacy across the different tumor types, he would prefer to use Opdivo for everything. He has the most experience with Opdivo and thinks that consistency with dosing and safety management would help reduce errors in their practice."
+"[chemo, chemotherapy, Ipi+Nivo]"," 11-10-2016
+
+Local community TL in commenting on CM-026 results of PD1 monotherapy not being enough in 1L broad NSCLC patient population, he does feel IO-IO combo is the answer as he truly feels there needs to be something priming the immune system in addition to PD1 therapy, however he does feel ipi is far too toxic and other combos of nivo should be focused on more; TL stated that NSCLC patients are often more beaten down than melanoma patients so while he does feel there can perhaps remain a role for ipi+nivo in melanoma, another IO+nivo option will be better for NSCLC patients"
+"[ie, space, histology]"," 03-01-2016
+
+Nurses at a large gathering for ONS dinner in Oregon, interested in comments regarding chemo precautions for infusion nurses and pharmacy staff in relation to historic uses of chemotherapy drugs and precautions. Article in ONS magazine regarding importance of implementing safety in administration of cancer agents triggered discussion. Nurse liaison retorted with the importance of safety precautions with mixing or administering Opdivo and Yervoy products and discussed potential for long term effects for patients (ie pregnancy precautions). Nurses volunteered they are reforming their current SOP's and practices in efforts to protect nurses, and provide specific guidance for pregnant nurses administering cancer agents."
+"[Nivo monotherapy, ipi/nivo combo, expectations]"," 06-12-2016
+
+Onc shared full understanding of 1st line implication and is impressed with data released at ASCO with ipi/nivo combo. Doc quoted the exact dosing for ipi/nivo including q6 or q12w dosing of ipi.  Doc mentioned best case 1st line patients get 10-12 months control with chemo, this will ""double that expectation"". Doc ""cant wait to see OS"""
+"[treat patients, clinically, SD]"," 04-03-2016
+
+A lung RTL from NY City volunteered that he suspects that AztraZeneca's MYSTIC trial in 1st line NSCLC may be under powered to show a significant difference in PFS versus chemotherapy.  He highlighted his own experience in 209-227 in which he has observed good objective responses in patients on either the Opdivo+Yervoy and chemotherapy arms.  The TL beleives the true benefit will show up in the durability of the clinical responses for the I-O treated patients."
+"[mutations, BRAF, EGFR]"," 05-27-2016
+
+A community oncologist shared that at his practice PD-L1 testing has been recently included together with testing for EGFR activating mutations and ALK translocation to the initial molecular evaluation of patients with NSQ-NSCLC."
+"[concerns, adverse events, severe]"," 03-25-2016
+
+The following unsolicited insights were provided by speakers from the podium at a recent oncology conference attended by national AI?s/TL?s in various tumor types and hematological malignancies.  
+
+Breast 
 ?	While there is limited data, panel believed for metastatic triple negative breast immunotherapy is a high viable option
-?	Sited studies currently ongoing with Merck and Roche in the neoadjuvant setting using IO with taxane. Developmental Therapeutics
+?	Sited studies currently ongoing with Merck and Roche in the neoadjuvant setting using IO with taxane.
+
+Developmental Therapeutics
 ?	One panelist made a comment to the audience about VALUE of care; the importance of consideration of value in oncology care.  
-o	For example, the importance of consideration of the idea of limiting lines of therapy before patient goes to hospice.  Also, he mentioned some pathways are thinking of limiting to 2 lines before hospice. Hematological malignancies Board
+o	For example, the importance of consideration of the idea of limiting lines of therapy before patient goes to hospice.  Also, he mentioned some pathways are thinking of limiting to 2 lines before hospice.
+
+Hematological malignancies Board
 ?	Panelist said RVD is strong 1st line therapy, based upon the SWOG trial presented at ASH 2015, because of OS with RVD.  He says he believes KRD may be treatment of future, even though KRD not indicated for 1L currently.
-?	Panelist says there is trial of RD v. KRD which may show whether it is a good 1st line treatment. Lung 
+?	Panelist says there is trial of RD v. KRD which may show whether it is a good 1st line treatment.
+
+Lung 
 Testing
 ?	Consensus with the lung panel that ordering broad molecular testing should always be an option and should be standard of care however the known issue is limitation of tissue
 ?	Concerns around timing of results from NGS may delay treatment for patients, ~3 weeks is too long especially when 15% of these patients waiting never receive treatment
@@ -87,20 +148,180 @@ o	18% of the audience selected, Pembrolizumab if PD?L1 positive (>1%)
 ?	A few RTLs mentioned that in the setting of >1% PD-L1 expression they would give pembrolizumab for patients needing the Q3W dosing schedule and would do the same in adeno histology in the 2L setting.
 ?	Panel discussed managing immune-mediated AEs from PD1 agents are often responsive to immunosuppression.  
 ?	One panelist said data for SQ and NSQ very different.  The case being discussed was a SQ patient.  He mentioned that IASCLC is doing studies around PDL1 testing.  He says he would change treatment approach of going straight to nivo if this was a NSQ patient (didn?t elaborate more).
-?	Lung panelist mentioned to the audience about the availability of the ASCO/MSKCC DrugAbacus tool (assesses the value of drugs compared to pricing given consideration of factors such as cost, toxicity, and efficacy). He mentioned the idea that If you can?t show that a drug is better, it supports considering restrictions. 
+?	Lung panelist mentioned to the audience about the availability of the ASCO/MSKCC DrugAbacus tool (assesses the value of drugs compared to pricing given consideration of factors such as cost, toxicity, and efficacy). He mentioned the idea that If you can?t show that a drug is better, it supports considering restrictions.
+
+
 Melanoma
 Adjuvant
 ?	Panel presented a case where patient was given adjuvant ipilimumab as part of the EORTC trial and after 2 cycles of 10 mg/kg dose patient developed severe GI perforations.  Issues raised were 1) why the 10 mg/kg dose was even chosen 2) significant cost but was later amended to the dose being supported through BMS APP 3) significant toxicities leading to discontinuation
 ?	Panel discussed while the incidence low, case of myocarditis and it is a significant concern to monitor for 
-?	One RTL said the toxicities of ipilimumab at 10 mg/kg are quite sobering comparing it to IL2 Testing	
+?	One RTL said the toxicities of ipilimumab at 10 mg/kg are quite sobering comparing it to IL2
+
+Testing	
 ?	One RTL mentioned he is not testing outside of clinical trials, and is not done routinely as data is still revolving
 ?	Discussion on which types of patients would tolerate regimen best and consensus on those who are healthy and with good performance status
 ?	Some community oncologist are using PD-1 inhibitors off label for cutaneous SCC as they?ve seen positive responses to PD1-inhibitors and have not been turned down by insurance companies, often challenging for some patients to participate in a clinical trial program because of location
 ?	RTL mentioned that we are in a unique space where knowledge of drug is going to move faster than a FDA approval 
 ?	TL panel member mentioned his experience has been that grade of immune-mediated AE likely correlated to depth of response
 ?	Consensus that the direction moving forward would be combination checkpoint inhibitor with targeted strategy.  Interesting how ?one major company going for targeted approach and another company doing immune checkpoint combination.?"
-"[therapy, option, RR] 04-06-2016",RTL at a large academic center is ?not sold on brentuximab maintenance therapy due to lack of OS data.?  He does not see it as an established standard of care but will talk to pts about option post transplant.  He doesn?t use brentuximab as consolidative agent at this time but use at relapse.
-"[feels, TKI, potentially] 02-28-2016","1.	Biomarker:  He?s not routinely testing for PDL-1 status. He?s making his treatment decisions purely on a clinical basis because he doesn?t have enough confidence in PDL1 as a biomarker.  He stated although the outcomes are better for PDL1 + pts, PDL1- can still respond durably so he does not want to deprive a pt of the opportunity for long term survival based on PDL1 status.   2.	Treatment Landscape:  NTL?s approach to melanoma pts:  he will attempt to treat all pts with Regimen front-line bc it gives them the best chance for long term OS.  If a pt is elderly (>75y), has comorbidities, or has pre-existing autoimmune disorders that he feels could be exacerbated on Regimen, he?ll treat with single agent Nivolumab.  He said he treats most elderly pts with single agent Nivo. He was in agreement with the robust efficacy of regimen and potential benefit for long term OS versus single agent.   He said pts don?t want a median increase in survival of a few months.  He said pts want to be on the ?tail end of curve? and that?s what he discusses with pts and that?s what Regimen/IO can provide.  NTL was extremely positive on Regimen data and hopes it will have similar results in other tumor types 3.	R&D Research Opportunities:  NTL brought up a discussion regarding mutations and response to immunotherapy.  NTL mentioned pts with high mutational load and tumors associated with high mutational burden tend to have better responses to IO.  We discussed reasoning for this was bc mutations often result in abnormal proteins which are recognized by intracellular immunological machinery, chopped up into small peptides, and presented on the tumor cell surface for immune cells to recognize.  Pts with high mutation load may have more tumor antigens present on the cell surface making them more visible to the immune system. I asked him if it would be a worthwhile research approach to identify potential targets in the intracellular immunological machinery of tumors that could be targeted to enhance the processing of mutated proteins so that you essentially have more mutated proteins being recognized, chopped up, and presented on the cell surface making the tumor even more visible to the immune system.  TL had an ?aha moment? and was very interested in this idea.  He asked if he could take this idea to his scientists in the lab for further investigation. He felt if you could manipulate the intracellular immunological machinery in the tumor to enhance the processing of mutated proteins (which is inherent to tumors) in combination with immune checkpoint inhibitors, it could potentially result in a more synergistic response - exposing the tumor to the immune system"
-"[institution, discussed, payers] 12-06-2016",Insight from molecular/lung pathologist TL (CAP/NCCN panelist) from an academic institution in NW territory: i) TL is not a fan of PD-L1 testing; ii) TL?s molecular lab has seen a recent increase in MMR/MSI testing in colorectal cancer; iii) TL described observing lack of concordance between IHC-based and molecular based MMR/MSI assays; iv) all samples are sent out to Neogenomics for PD-L1 testing but TL would like to bring PD-L1 testing in-house; v) institution only has Ventana platform but TL is not excited on SP142 antibody based IHC; vi) TL favors Ventana over Dako platforms and would like to have a reliable IHC assay on the Ventana platform; vii) TL was very interested to learn more on the Blueprint study and potentially importing SP263 clone into her lab for clinical testing as a result of this study; viii) conclusions from Blueprint study were briefly discussed with TL and link to publication was provided to TL after the meeting; ix) TL mentioned that CAP and NCCN ?near-future guidelines are under strict confidentiality? but that the requests for rolling out new guidelines have been made (in NCCN setting). Revision of guidelines is driven by requests to release new guidelines.
-"[indication, drug, flat dosing] 10-13-2016","TLs state the OAK data is intriguing in that the agent works in the all comer population, has apparent efficacy in the PDL1 non-expressing population, has q3w convenience, and a highly tolerable safety profile. When questioned about how to choose between agents in the 2L the TLs in general still feel that atezo is a ""me too"" drug and that nivo has such broad indications across tumor types with proven efficacy and support for many others that there is an established loyalty to nivo. Hence, the TLs predict varied physician preference (""choose one or the other and neither are wrong"") in the 2L."
-"[stated, enrollment, Spoke] 12-11-2016","Regional H/N TL commented that even with EXTREME being the SoC for 1L rec/met, she's surprised there isn't more of an option left to physicians for clinical trial settings where investigator's choice could be part of the protocol. She expressed that EXTREME is very rarely used as-is and is very challenging to sell a pt on when they know they may be randomized to this therapy. Most often 5-FU is swapped out for a taxane and occasionally cetuximab is left out altogether depending on the state of the pt. She felt this may create a lag to the ongoing I/O trials that are using this as a comparator."
+"[therapy, option, RR]"," 04-06-2016
+
+RTL at a large academic center is ?not sold on brentuximab maintenance therapy due to lack of OS data.?  He does not see it as an established standard of care but will talk to pts about option post transplant.  He doesn?t use brentuximab as consolidative agent at this time but use at relapse."
+"[feels, TKI, potentially]"," 02-28-2016
+
+1.	Biomarker:  He?s not routinely testing for PDL-1 status. He?s making his treatment decisions purely on a clinical basis because he doesn?t have enough confidence in PDL1 as a biomarker.  He stated although the outcomes are better for PDL1 + pts, PDL1- can still respond durably so he does not want to deprive a pt of the opportunity for long term survival based on PDL1 status.  
+
+2.	Treatment Landscape:  NTL?s approach to melanoma pts:  he will attempt to treat all pts with Regimen front-line bc it gives them the best chance for long term OS.  If a pt is elderly (>75y), has comorbidities, or has pre-existing autoimmune disorders that he feels could be exacerbated on Regimen, he?ll treat with single agent Nivolumab.  He said he treats most elderly pts with single agent Nivo. He was in agreement with the robust efficacy of regimen and potential benefit for long term OS versus single agent.   He said pts don?t want a median increase in survival of a few months.  He said pts want to be on the ?tail end of curve? and that?s what he discusses with pts and that?s what Regimen/IO can provide.  NTL was extremely positive on Regimen data and hopes it will have similar results in other tumor types
+
+3.	R&D Research Opportunities:  NTL brought up a discussion regarding mutations and response to immunotherapy.  NTL mentioned pts with high mutational load and tumors associated with high mutational burden tend to have better responses to IO.  We discussed reasoning for this was bc mutations often result in abnormal proteins which are recognized by intracellular immunological machinery, chopped up into small peptides, and presented on the tumor cell surface for immune cells to recognize.  Pts with high mutation load may have more tumor antigens present on the cell surface making them more visible to the immune system. I asked him if it would be a worthwhile research approach to identify potential targets in the intracellular immunological machinery of tumors that could be targeted to enhance the processing of mutated proteins so that you essentially have more mutated proteins being recognized, chopped up, and presented on the cell surface making the tumor even more visible to the immune system.  TL had an ?aha moment? and was very interested in this idea.  He asked if he could take this idea to his scientists in the lab for further investigation. He felt if you could manipulate the intracellular immunological machinery in the tumor to enhance the processing of mutated proteins (which is inherent to tumors) in combination with immune checkpoint inhibitors, it could potentially result in a more synergistic response - exposing the tumor to the immune system"
+"[institution, discussed, payers]"," 12-06-2016
+
+Insight from molecular/lung pathologist TL (CAP/NCCN panelist) from an academic institution in NW territory: i) TL is not a fan of PD-L1 testing; ii) TL?s molecular lab has seen a recent increase in MMR/MSI testing in colorectal cancer; iii) TL described observing lack of concordance between IHC-based and molecular based MMR/MSI assays; iv) all samples are sent out to Neogenomics for PD-L1 testing but TL would like to bring PD-L1 testing in-house; v) institution only has Ventana platform but TL is not excited on SP142 antibody based IHC; vi) TL favors Ventana over Dako platforms and would like to have a reliable IHC assay on the Ventana platform; vii) TL was very interested to learn more on the Blueprint study and potentially importing SP263 clone into her lab for clinical testing as a result of this study; viii) conclusions from Blueprint study were briefly discussed with TL and link to publication was provided to TL after the meeting; ix) TL mentioned that CAP and NCCN ?near-future guidelines are under strict confidentiality? but that the requests for rolling out new guidelines have been made (in NCCN setting). Revision of guidelines is driven by requests to release new guidelines."
+"[indication, drug, flat dosing]"," 10-13-2016
+
+TLs state the OAK data is intriguing in that the agent works in the all comer population, has apparent efficacy in the PDL1 non-expressing population, has q3w convenience, and a highly tolerable safety profile. When questioned about how to choose between agents in the 2L the TLs in general still feel that atezo is a ""me too"" drug and that nivo has such broad indications across tumor types with proven efficacy and support for many others that there is an established loyalty to nivo. Hence, the TLs predict varied physician preference (""choose one or the other and neither are wrong"") in the 2L."
+"[stated, enrollment, Spoke]"," 12-11-2016
+
+Regional H/N TL commented that even with EXTREME being the SoC for 1L rec/met, she's surprised there isn't more of an option left to physicians for clinical trial settings where investigator's choice could be part of the protocol. She expressed that EXTREME is very rarely used as-is and is very challenging to sell a pt on when they know they may be randomized to this therapy. Most often 5-FU is swapped out for a taxane and occasionally cetuximab is left out altogether depending on the state of the pt. She felt this may create a lag to the ongoing I/O trials that are using this as a comparator."
+"[mono, regimen, discontinued]"," 02-19-2016
+
+Melanoma RTL with lots of I/O experience (Investigator on 209-067), stated his belief that PDL1+ patients don't benefit from adding Ipi to Nivo.  He is testing for PDL1 to determine treatment choice between PD1 monotherapy and Ipi+Nivo combination. PDL1+ patients receive anti-PD1 mono therapy; PDL1neg patients receive Ipi+Nivo Regimen."
+"[2L, vs, cutoff]"," 11-23-2016
+
+TL was very upset that BMS had ""such a stupid trial design for 1L NSCLC."" Specifically pointing out the PFS endpoint and treatment arm imbalances.  In addition, TL was upset that they are now forced to test for PD-L1 status even though the assays are complicated and not fully established. When asked about testing the TL stated they solely leave the process to the pathologists stating they call the pathologist and say ""I want to use pembro in 1L test PDL1."" Further TL was upset because does not want to be in a position to decide on treatment if less than 50% but close to the threshold (e.g 45-50%, below 45 they were very clear they would choose chemo). Nivo was still regarded as the agent of choice for 2L."
+"[academic, center, large]"," 09-21-2016
+
+Director of Pediatric Oncology/ Hematology at a large academic center has used Nivolumab in patients as young as 15-18."
+"[nivolumab, cabozantinib, patients receiving]"," 02-27-2016
+
+An NCCN panelist for renal cell carcinoma explained the rationale for limiting targeted therapy as second line only to patients treated with TKI therapy.  Bevacizumab in combination with interferon is no longer a preferred therapy due to toxicity.  So very few patients are currently started on bevacizumab. Also, in clinical trials for targeted agents such as nivolumab and cabozantinib, there are not enough patients treated with bevacizumab to warrant an explicit recommendation for targeted therapies in this group. Therefor the NCCN Guidelines are unlikely to change it language to include all anti-angiogenic therapies.  However, oncologists should have no concern in using targeted therapies patients previously treated with bevacizumab."
+"[melanoma, TL said, emphasized]"," 07-14-2016
+
+Brian Carriere and I met with a NTL/ NSCLC NCCN panelist at an NCI-designated academic institution in the mid-Atlantic who volunteered these unsolicited views regarding the rapidly evolving NSCLC treatment landscape:
+Current Immunotherapy landscape:
+?	This panelist believes that because of the MoA, anti-PD1s will eventually be seen as interchangeable, and believes that payers will prefer whichever pharma/ biotech company?s therapy is most cost-effective
+o	Upon review of Keynote-010 versus Checkmate 057 mOS and HR to illustrate outcome differences, panelist pointed out BMS omitting Squamous NSCLC
+?	Believes that the difference (if any) is negligible when introducing Squamous population in to Checkmate data
+?	Acknowledges that BMS is dominating in 2L market share because of no testing strategy
+o	As long as new efficacy and safety data matches Merck?s and timing of indications is roughly the same, panelist believes BMS will maintain its lead in 1L because oncologists are accustomed to using Nivo and habits are difficult to break
+I-O shift to first line:
+?	Awaiting Merck to release results of Keynote-024
+o	Expects presentation of data at ESMO, and hopes to see BMS present findings from Checkmate-026 at that time
+o	Understands why BMS would be a little anxious after Merck?s most recent press release, but views Keynote-024 as only impacting 15% (at best) of NSCLC because of its PD-L1 >50% requirement
+?	Review of Checkmate-012:
+o	Panelist expressed befuddlement at amount of press Checkmate-012 garnered post-ASCO considering how few patients were involved in trial 
+?	Appreciated the 57% versus 28% ORR in PD-L1 expressers in the Nivo+Ipi versus Nivo mono groups, respectively, and found it impactful
+?	Expressed concern with combination of Nivo+Ipi because of its toxicity profile
+?	Upon review of Checkmate-012 safety data, panelist acknowledged that 19% versus 33% Grade 3-4 AEs was NOT drastically different, and 13% versus 10% and 8% versus 10% discontinuation rates for all Grade AEs and Grade 3-4 AEs, respectively, were essentially the same
+o	Nevertheless, panelist mentioned multiple times throughout meeting that Ipi was toxic 
+?	Bryan and I then differentiated Nivo+Ipi dosing in melanoma versus NSCLC, stressing small Ipi dose of 1mg/kg in NSCLC
+o	Panelist mentioned at least twice that Nivo+Ipi should only be used in a clinical trial setting and not in a community setting
+?	When asked what evidence/ data is missing to calm safety concerns, panelist responded that BMS would need much more safety data than what was presented on 30+ patients
+?	Expressed how often Phase 1 data can?t be replicated in a Phase 3 setting
+PD-L1 testing:
+?	Does not believe that PD-L1 is an accurate marker of disease in NSCLC
+o	This panelist believes that too much time is spent on PD1 inhibitors in NSCLC when PD-L1 doesn?t fully explain disease outcome
+?	Adamantly believes that someone will one day be able to explain how NSCLC can best be managed, and doesn?t believe PD-1 will be a relevant factor
+?	Doesn?t believe that anyone in the community practice setting cares about PD-L1 levels for treatment
+o	Community oncologists only want to know PD-L1 cutoffs so that they know what to prescribe in order for payers to reimburse
+?	This will become less of an issue when Merck is also indicated for all PD-L1 expressers
+Payers and NCCN:
+?	Mentioned that several NCCN panel members had received angry and disturbing letters from payers when NCCN had decided to include testing for use of Pembro because it added to payer?s expenses 
+?	Laughed at the idea that payers and pathway companies use guidelines to create their medical policies when guidelines are only meant to be one group?s opinion
+?	When asked about how NCCN would communicate PD-L1 cutoffs for therapeutic recommendations, (i.e., Checkmate-012 presentation where Nivo+Ipi PD-L1 status cutoff was 1% but Nivo monotherapy cutoff in Gettinger paper was 5% ), the panelist mentioned similarly to what they?ve done in the past for Pembro
+o	This panelist believes that NCCN panel has gone far enough in clearly stating Pembro?s required testing and cutoff in the Guidelines, and doesn?t need additional or more forceful language
+Financial Concerns:
+?	This panelist says that Nivo?s introduction and applicability across tumor types is unprecedented in oncology, and that its cost as it continues to gain indications is unsustainable to the healthcare system
+o	Several times used the term ?financially toxic? to describe the cost of Nivo+Ipi 
+?	Recently co-authored and submitted a commentary to Francisco Tartari?s article on economic stability of PD1 inhibitors - Economic sustainability of anti-PD-1 agents nivolumab and pembrolizumab in cancer patients: Recent insights and future challenges, where calculated cost of Nivo was $44k and Pembro was $130k: (http://www.cancertreatmentreviews.com/article/S0305-7372(16)30041-X/abstract)"
+"[shared, impressed, LTL]"," 06-29-2016
+
+A discussion with a NCCN NSCLC panelist/chair led to the following unsolicited insights and feedback:
+-	The panelist highlighted how well he believed BMS data was represented at this year?s ASCO, but added that there are more players/competition in this space. He also made reference to Merck?s press release, but did not mention having seen the data at this time.
+-	He shared the NCCN NSCLC panel will be meeting LIVE in Philadelphia in early July, at which time he believes there will be great discussion/debate around the data presented at ASCO.
+-	The discussion around the BMS 1st line 012 data was brought up by the panelist in an unsolicited manner, and he highlighted he was extremely impressed with ORR seen in the patient population with >50% PDL1 expression level, but he added that this does not represent a large majority of patients, and he was also concerned about the toxicity. At this time we discussed the ORR across all patient populations in the trial, focusing on the >1% and >5% populations, as well as the safety profile from the 012. We discussed traditional response rates with SOC agents in the first line, focusing on platinum doublet chemo, and the toxicities associated with these agents. AS he believes nivolumab to be a very safe drug in the second line, he was impressed to see the safety profile with the regimen combination, particularly discontinuation rates, being similar across the arms of the study. However, throughout the discussion he mentioned several times the fact that this is a phase 1 trial with very small numbers. At this point we discussed how the NCCN panels view data, highlighting that in the past they have considered adding agents to the guidelines based on P1 data in small patient populations.
+-	Given the unmet need for these patients and the response rates/safety profiles discussed, the panelist recommended that we ensure all the NSCLC panelists are familiar with these data.
+-	He had unsolicited questions around when our P3 single agent nivo vs chemo data will read out, along with any planned publications for either that data, or any of the data recently presented at ASCO."
+"[RTL, academic institution, 1st line]"," 06-19-2016
+
+RTL from a major academic institution uses p16 as a surrogate for HPV status.  HPV testing is routine practice.  The institution has a significant SCCHN population with 70-80% being HPV positive.
+
+RTL doesn't see PD-L1 status as important for the time being, and PD-L1 testing for SCCHN is not routine practice."
+"[AE, algorithm, overall]"," 07-05-2016
+
+Physician at larger rural practice noted disappointment at lack of responses seen in lung patients receiving Nivolumab.  Discussed with him the line of therapy he has noted this in.  He acknowledged that the majority of these patients were 3rd line and beyond.  He then also noted that he does not do PDL-1 testing on these patients and felt that it might have been he was treating more lower expressors and this may also contribute to what he is perceiving as fewer beneficial responses.  Overall, he has been very happy with the lack of side effects seen with treatment.
+Same physician also noted he has started a patient on Regimen who had progressed on Nivolumab mono therapy.  Reviewed algorithms for monitoring and IMAR management as this is his first patient on Regimen.  Also reviewed with the clinic's NP and nursing staff."
+"[TL, HCP, Onc]"," 07-14-2016
+
+Brian Carriere and I met with a NTL/ NSCLC NCCN panelist at an NCI-designated academic institution in the mid-Atlantic who volunteered these unsolicited views regarding the rapidly evolving NSCLC treatment landscape:
+Current Immunotherapy landscape:
+?	This panelist believes that because of the MoA, anti-PD1s will eventually be seen as interchangeable, and believes that payers will prefer whichever pharma/ biotech company?s therapy is most cost-effective
+o	Upon review of Keynote-010 versus Checkmate 057 mOS and HR to illustrate outcome differences, panelist pointed out BMS omitting Squamous NSCLC
+?	Believes that the difference (if any) is negligible when introducing Squamous population in to Checkmate data
+?	Acknowledges that BMS is dominating in 2L market share because of no testing strategy
+o	As long as new efficacy and safety data matches Merck?s and timing of indications is roughly the same, panelist believes BMS will maintain its lead in 1L because oncologists are accustomed to using Nivo and habits are difficult to break
+I-O shift to first line:
+?	Awaiting Merck to release results of Keynote-024
+o	Expects presentation of data at ESMO, and hopes to see BMS present findings from Checkmate-026 at that time
+o	Understands why BMS would be a little anxious after Merck?s most recent press release, but views Keynote-024 as only impacting 15% (at best) of NSCLC because of its PD-L1 >50% requirement
+?	Review of Checkmate-012:
+o	Panelist expressed befuddlement at amount of press Checkmate-012 garnered post-ASCO considering how few patients were involved in trial 
+?	Appreciated the 57% versus 28% ORR in PD-L1 expressers in the Nivo+Ipi versus Nivo mono groups, respectively, and found it impactful
+?	Expressed concern with combination of Nivo+Ipi because of its toxicity profile
+?	Upon review of Checkmate-012 safety data, panelist acknowledged that 19% versus 33% Grade 3-4 AEs was NOT drastically different, and 13% versus 10% and 8% versus 10% discontinuation rates for all Grade AEs and Grade 3-4 AEs, respectively, were essentially the same
+o	Nevertheless, panelist mentioned multiple times throughout meeting that Ipi was toxic 
+?	Bryan and I then differentiated Nivo+Ipi dosing in melanoma versus NSCLC, stressing small Ipi dose of 1mg/kg in NSCLC
+o	Panelist mentioned at least twice that Nivo+Ipi should only be used in a clinical trial setting and not in a community setting
+?	When asked what evidence/ data is missing to calm safety concerns, panelist responded that BMS would need much more safety data than what was presented on 30+ patients
+?	Expressed how often Phase 1 data can?t be replicated in a Phase 3 setting
+PD-L1 testing:
+?	Does not believe that PD-L1 is an accurate marker of disease in NSCLC
+o	This panelist believes that too much time is spent on PD1 inhibitors in NSCLC when PD-L1 doesn?t fully explain disease outcome
+?	Adamantly believes that someone will one day be able to explain how NSCLC can best be managed, and doesn?t believe PD-1 will be a relevant factor
+?	Doesn?t believe that anyone in the community practice setting cares about PD-L1 levels for treatment
+o	Community oncologists only want to know PD-L1 cutoffs so that they know what to prescribe in order for payers to reimburse
+?	This will become less of an issue when Merck is also indicated for all PD-L1 expressers
+Payers and NCCN:
+?	Mentioned that several NCCN panel members had received angry and disturbing letters from payers when NCCN had decided to include testing for use of Pembro because it added to payer?s expenses 
+?	Laughed at the idea that payers and pathway companies use guidelines to create their medical policies when guidelines are only meant to be one group?s opinion
+?	When asked about how NCCN would communicate PD-L1 cutoffs for therapeutic recommendations, (i.e., Checkmate-012 presentation where Nivo+Ipi PD-L1 status cutoff was 1% but Nivo monotherapy cutoff in Gettinger paper was 5% ), the panelist mentioned similarly to what they?ve done in the past for Pembro
+o	This panelist believes that NCCN panel has gone far enough in clearly stating Pembro?s required testing and cutoff in the Guidelines, and doesn?t need additional or more forceful language
+Financial Concerns:
+?	This panelist says that Nivo?s introduction and applicability across tumor types is unprecedented in oncology, and that its cost as it continues to gain indications is unsustainable to the healthcare system
+o	Several times used the term ?financially toxic? to describe the cost of Nivo+Ipi 
+?	Recently co-authored and submitted a commentary to Francisco Tartari?s article on economic stability of PD1 inhibitors - Economic sustainability of anti-PD-1 agents nivolumab and pembrolizumab in cancer patients: Recent insights and future challenges, where calculated cost of Nivo was $44k and Pembro was $130k: (http://www.cancertreatmentreviews.com/article/S0305-7372(16)30041-X/abstract)"
+"[response, immune, benefit]"," 09-23-2016
+
+Biomedical Learning Institute 1st Annual Symposium on Integrating Immune Therapies & Target Therapies into Standards of Care for Heme and Solid Malignancies; San Fran Sept 10, 2016 
+Well Attended with over 200 attendees/ Merck was a sponsor as well as other companies (foundation medicine).   BMS was not one of the major sponsors.  
+
+Lung: One of the major questions was: Are antiPD-1 agents interchangeable, and the presenters overall argued for yes they are the same (nivo/pembro). The schedule differences were mentioned several times highlighting Pembro
+Insights 
+?	Oak Trial results were mentioned for Atezo (Atezo was alleged as More toxic of the agents)
+?	Pembro and Nivo have same toxicity profile
+?	We don?t need a cross trial comparison since the populations were very similar and Nivo performs regardless of pd staining percentages
+?	Commented that there are so many duplicative 2nd line trials amongst PD-1 inhibitors.  There is pressure to move into front line setting.  
+?	In reference to 1st line lung press releases ? ?Merck cherry picked their patients? for trial, and consensus was that no doc on panel board would use off label 1st line IO tx unless on trial, they are all waiting for data; they all concluded that BMS strategy in 1st line did not pay off, and chemo ?isn?t going anywhere?, since only 50% of pts likely have pd expression. One TL did comment that if he did he would use Pembro as the data is there and it has the best schedule. 
+?	Awaiting Blueprint project for further information on which testing to use (docs agreed that most facilities will pick one test and use exclusively due to cost and training)
+?	All panel board docs advised audience to get PD status on new dx pts.  The question was asked if testing should be mandatory for newly diagnosed patients and they all said yes.  
+?	National TL discussed Nivo trial looking at OS by PDL1 expression and stated 10% had better OS and that PDL-1 staining does predict OS. 
+?	A lot of excitement over Ipi/Nivo combo in Lung  
+1.	Mentioned that it is very alluring to give a boost of Ipi when single agent IO is fizzling to boost responses (no data to support however)
+?	*Pseudoprogression mentioned many times ?does not exist in lung? ?pts refuse to be taken off of tx even in the face of wild progression?
+?	Mentioned BMS 153 trial looking at early stopping of tx  Discussed the need to look at how long to continue these therapies.  TL went on to say he wasn?t sure how the data would pan out with this trial since many patients don?t survive to 1 year which is the cutoff for the trial to continue without therapy.
+Costs: Cost was mentioned many times with one quote from podium for Lung 1st Line ?The only thing more expensive than IO is IO combo? 
+
+
+Melanoma: Dr. J. Weber was one of the 2 presenters- NTL 
+*Discussed BRAF pts to use targeted or IO first line setting (no consensus, both sides argued)
+*Weber alleged Ipi/Nivo regimen is ?very toxic? and ?very effective? tx. Targeted Tx?s are less toxic that Combo IO. 
+*advised audience to use 8 weeks of Targeted tx and move on to regimen of ipi/nivo
+*Tvec treatment cant compare to IO
+*064 Trial highlighted as switch approach 
+*Encouraged extrapolating data from Lung Trial 012 for melanoma and to use reversed dosing or Ipi Q6w or Q12w
+*believes adding braf inh target tx to IO combo will be very effective
+
+Other solid Tumor:
+-Pancreas: stated due to hypoxic pancreas tumor micro-environment and no local tcells that single agent antiPD1 hasn?t worked so far
+Prostate: Discussed ipi negative trial and that bone disease only arm did much better 
+H&N: Stated Nivo is new standard of care"
